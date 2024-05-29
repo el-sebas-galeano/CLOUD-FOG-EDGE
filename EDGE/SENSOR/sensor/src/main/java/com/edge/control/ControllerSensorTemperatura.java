@@ -3,19 +3,13 @@ package com.edge.control;
 import java.time.LocalDateTime;
 import java.util.Random;
 
-import com.edge.model.Sensor;
 import com.edge.model.SensorTemperatura;
-import com.edge.view.ImpInterfaceSensor;
-import com.edge.view.InterfaceSensor;
 
-public class ControllerSensorTemperatura implements Runnable{
+public class ControllerSensorTemperatura extends ControllerSensor{
 
     char tipo = ' ';
     private static final float MIN_RANGO = 11.0f;
     private static final float MAX_RANGO = 29.4f;
-    InterfaceSensor interfaceSensor = new ImpInterfaceSensor();
-
-    Sensor sensorInfo = new SensorTemperatura();
 
     public ControllerSensorTemperatura (char tipo, String idSensor, LocalDateTime localDateTime){
         this.tipo = tipo;

@@ -11,7 +11,7 @@ public class App
     {
         try(ZContext context = new ZContext()){
             Socket socketPull = context.createSocket(SocketType.PULL);
-            socketPull.bind("tcp://localhost:5557");
+            socketPull.bind("tcp://localhost:5100");
             while (!Thread.currentThread().isInterrupted()) {
                 String message = socketPull.recvStr();
                 if (message != null) {

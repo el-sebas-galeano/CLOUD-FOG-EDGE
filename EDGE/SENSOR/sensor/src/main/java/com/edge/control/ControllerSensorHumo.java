@@ -4,28 +4,20 @@ import java.time.LocalDateTime;
 import java.util.Random;
 
 import org.zeromq.SocketType;
-import org.zeromq.ZContext;
-import org.zeromq.ZMQ;
 import org.zeromq.ZMQ.Socket;
 
 import com.edge.model.Sensor;
 import com.edge.model.SensorHumo;
-import com.edge.view.ImpInterfaceSensor;
-import com.edge.view.InterfaceSensor;
 
-public class ControllerSensorHumo implements Runnable {
 
-    private Sensor sensorInfo;
-    private InterfaceSensor interfaceSensor;
-    private ZContext context;
+public class ControllerSensorHumo extends ControllerSensor {
+
     private Socket socketPush;
 
     public ControllerSensorHumo(int posicion, String idSensor, LocalDateTime localDateTime) {
         this.sensorInfo = new SensorHumo(idSensor, localDateTime);
-        this.interfaceSensor = new ImpInterfaceSensor();
-        this.context = new ZContext();
         this.socketPush = context.createSocket(SocketType.PUSH);
-        socketPush.connect("tcp://localhost:5557");
+        socketPush.connect("tcp://localhost:5100");
     }
 
     @Override
@@ -52,7 +44,7 @@ public class ControllerSensorHumo implements Runnable {
 
     public void activarActuador(Sensor sensor) {
         String mensaje = "El actuador ha sido activado por el sensor " + sensor.getIdSensor();
-        socketPush.send(mensaje.getBytes(ZMQ.CHARSET), 0);
+        enviarMensaje(socketPush, mensaje);
         interfaceSensor.imprimir("Actuador Activado.");
     }
 

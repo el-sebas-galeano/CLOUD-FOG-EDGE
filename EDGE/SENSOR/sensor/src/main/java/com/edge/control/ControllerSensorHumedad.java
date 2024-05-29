@@ -8,15 +8,12 @@ import com.edge.model.SensorHumedad;
 import com.edge.view.ImpInterfaceSensor;
 import com.edge.view.InterfaceSensor;
 
-public class ControllerSensorHumedad implements Runnable {
+public class ControllerSensorHumedad extends ControllerSensor {
 
-    char tipo = ' ';
+    private char tipo = ' ';
     private static final int MIN_RANGO = 70;
     private static final int MAX_RANGO = 100;
-    InterfaceSensor interfaceSensor = new ImpInterfaceSensor();
-
-    Sensor sensorInfo = new SensorHumedad();
-
+    
     public ControllerSensorHumedad(char tipo, String idSensor, LocalDateTime localDateTime) {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
