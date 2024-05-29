@@ -13,7 +13,7 @@ public class ControllerSensorHumedad extends ControllerSensor {
     private char tipo = ' ';
     private static final int MIN_RANGO = 70;
     private static final int MAX_RANGO = 100;
-    
+    private Random random;
     public ControllerSensorHumedad(char tipo, String idSensor, LocalDateTime localDateTime) {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
@@ -25,13 +25,15 @@ public class ControllerSensorHumedad extends ControllerSensor {
             ((SensorHumedad) this.sensorInfo).setHumedad(generarValor(this.tipo));
             this.sensorInfo.setLocalDateTime(LocalDateTime.now());
             interfaceSensor.imprimir(this.sensorInfo.toString());
+            if(tipo == 'F'){
+                generarAlarma(((SensorHumedad) this.sensorInfo).getHumedad());
+            }//esto es lo que hay que mirar si cambias a lo de probabilidades 
             try{
                 Thread.sleep(5000);
             }catch(InterruptedException interruptedException){
                 System.err.println("El hilo falló.");
             }
         }
-
     }
 
     public static int generarValor(char tipo) {
@@ -57,6 +59,10 @@ public class ControllerSensorHumedad extends ControllerSensor {
 
     private static int generarInvalido() {
         Random random = new Random();
+        
         return -random.nextInt(100);
+    }
+    private String generarAlarma(int medida){
+        return enviarAlarma(Integer.toString(medida));
     }
 }
