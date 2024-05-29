@@ -13,11 +13,14 @@ import com.edge.model.SensorHumo;
 public class ControllerSensorHumo extends ControllerSensor {
 
     private Socket socketPush;
+    private Socket socketPushFog;
 
     public ControllerSensorHumo(int posicion, String idSensor, LocalDateTime localDateTime) {
         this.sensorInfo = new SensorHumo(idSensor, localDateTime);
         this.socketPush = context.createSocket(SocketType.PUSH);
+        this.socketPushFog = context.createSocket(SocketType.PUSH);
         socketPush.connect("tcp://localhost:5100");
+        socketPushFog.connect("tcp://localhost:5120");
     }
 
     @Override
@@ -27,11 +30,13 @@ public class ControllerSensorHumo extends ControllerSensor {
             ((SensorHumo) this.sensorInfo).setDetectorHumo(random.nextBoolean());
             this.sensorInfo.setLocalDateTime(LocalDateTime.now());
             interfaceSensor.imprimir(this.sensorInfo.toString());
+
+            enviarMensaje(socketPushFog, this.sensorInfo.toString());
+
             if (((SensorHumo) this.sensorInfo).isDetectorHumo()) {
                 activarActuador(this.sensorInfo);
             }
 
-            // Enviar Info a Proxy
             // Enviar Info a SC
 
             try {
