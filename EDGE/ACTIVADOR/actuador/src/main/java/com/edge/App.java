@@ -13,10 +13,10 @@ public class App
             Socket socketPull = context.createSocket(SocketType.PULL);
             socketPull.bind("tcp://localhost:5557");
             while (!Thread.currentThread().isInterrupted()) {
-                System.out.println("Esperando.........");
-                byte[] mensajeBytes = socketPull.recv(0);
-                String mensaje = new String(mensajeBytes, ZMQ.CHARSET);       
-                System.out.println(mensaje);
+                String message = socketPull.recvStr();
+                if (message != null) {
+                    System.out.println("Received: " + message);
+                }                    
             }
             socketPull.close();
         }
