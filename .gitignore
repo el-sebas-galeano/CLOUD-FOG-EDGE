@@ -3,3 +3,4 @@
 *.class
 *.class
 *.lst
+FOG/LOCAL-SERVER/target/classes/com/fog/App.class
