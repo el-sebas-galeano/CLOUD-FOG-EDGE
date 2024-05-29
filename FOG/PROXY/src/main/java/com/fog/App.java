@@ -1,7 +1,7 @@
 package com.fog;
 
 
-import com.fog.Controller.ControllerProxy;
+import com.fog.controller.ControllerProxy;
 
 public class App {
 

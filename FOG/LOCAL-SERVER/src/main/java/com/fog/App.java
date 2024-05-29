@@ -6,6 +6,9 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
+import com.fog.controller.ControllerDatos;
+import com.fog.controller.SensorManager;
+
 public class App {
 
     ArrayList<String> medicionesHumo = new ArrayList<>();
@@ -13,19 +16,8 @@ public class App {
     ArrayList<String> medicionesHumedad = new ArrayList<>();    
 
     public static void main( String[] args ){
-        try(ZContext context = new ZContext()){
-            Socket socketProxy = context.createSocket(SocketType.PULL);
-            socketProxy.bind("tcp://localhost:5220");
-
-            while (true) {
-                System.out.println("Esperando.......");
-                String data = socketProxy.recvStr();
-                System.out.println(data);
-            }
-        }
-    }
-
-    public void evaluarMedicion(String medicion){
-        
+        SensorManager sensorManager = new SensorManager();
+        ControllerDatos controllerDatos = new ControllerDatos(sensorManager);
+        new Thread(controllerDatos).start();
     }
 }

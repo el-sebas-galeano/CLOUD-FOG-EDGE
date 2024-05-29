@@ -4,3 +4,5 @@
 *.class
 *.lst
 FOG/LOCAL-SERVER/target/classes/com/fog/App.class
+FOG/LOCAL-SERVER/target/test-classes/com/fog/AppTest.class
+FOG/LOCAL-SERVER/target/classes/com/fog/App.class

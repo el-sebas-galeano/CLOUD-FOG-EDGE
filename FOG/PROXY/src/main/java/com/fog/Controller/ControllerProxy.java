@@ -1,4 +1,4 @@
-package com.fog.Controller;
+package com.fog.controller;
 
 import org.zeromq.SocketType;
 import org.zeromq.ZContext;
