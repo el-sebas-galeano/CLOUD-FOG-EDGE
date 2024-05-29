@@ -1,0 +1,69 @@
+package com.edge.control;
+
+import java.time.LocalDateTime;
+import java.util.Random;
+
+import com.edge.model.Sensor;
+import com.edge.model.SensorTemperatura;
+import com.edge.view.ImpInterfaceSensor;
+import com.edge.view.InterfaceSensor;
+
+public class ControllerSensorTemperatura implements Runnable{
+
+    char tipo = ' ';
+    private static final float MIN_RANGO = 11.0f;
+    private static final float MAX_RANGO = 29.4f;
+    InterfaceSensor interfaceSensor = new ImpInterfaceSensor();
+
+    Sensor sensorInfo = new SensorTemperatura();
+
+    public ControllerSensorTemperatura (char tipo, String idSensor, LocalDateTime localDateTime){
+        this.tipo = tipo;
+        sensorInfo = new SensorTemperatura(idSensor, localDateTime);
+    }
+
+    @Override
+    public void run() {
+        while (true) {
+            ((SensorTemperatura) this.sensorInfo).setTemperatura(generarValor(this.tipo));
+            this.sensorInfo.setLocalDateTime(LocalDateTime.now());
+            interfaceSensor.imprimir(this.sensorInfo.toString());
+            try{
+                Thread.sleep(6000);
+            } catch (InterruptedException interruptedException){
+                System.err.println("El hilo falló.");
+            }
+        }
+    }
+
+    public static float generarValor(char tipo) {
+        if (tipo == 'A') {
+            return generarDentroDelRango();
+        } else if (tipo == 'F') {
+            return generarFueraDelRango();
+        } else {
+            return generarInvalido();
+        }
+    }
+
+    private static float generarDentroDelRango() {
+        Random random = new Random();
+        return MIN_RANGO + (MAX_RANGO - MIN_RANGO) * random.nextFloat();
+    }
+
+    private static float generarFueraDelRango() {
+        Random random = new Random();
+        float fuera;
+        if (random.nextBoolean()) {
+            fuera = random.nextFloat() * MIN_RANGO;
+        } else {
+            fuera = MAX_RANGO + random.nextFloat() * (100.0f - MAX_RANGO);
+        }
+        return fuera;
+    }
+
+    private static float generarInvalido() {
+        Random random = new Random();
+        return -random.nextFloat() * 100.0f;
+    }
+}
