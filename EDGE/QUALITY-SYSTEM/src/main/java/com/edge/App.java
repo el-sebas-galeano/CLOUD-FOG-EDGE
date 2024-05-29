@@ -11,12 +11,10 @@ public class App
         try(ZContext context = new ZContext()){
             Socket socketCalidad=context.createSocket(SocketType.REP);
             socketCalidad.bind("tcp://localhost:5110");
-
+            System.out.println("Esperando Alarmas!...");
             while (!Thread.currentThread().isInterrupted()) {
-                System.out.println("Esperando Alarmas!...");
                 String alarma = socketCalidad.recvStr();
                 System.out.println(alarma);
-                
                 socketCalidad.send("Alarma registrada con exito!");
             }
         }
