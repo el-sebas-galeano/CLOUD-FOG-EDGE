@@ -6,7 +6,10 @@ import java.util.Random;
 import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
+import com.edge.model.Sensor;
 import com.edge.model.SensorHumedad;
+import com.edge.view.ImpInterfaceSensor;
+import com.edge.view.InterfaceSensor;
 
 public class ControllerSensorHumedad extends ControllerSensor {
 
@@ -14,6 +17,7 @@ public class ControllerSensorHumedad extends ControllerSensor {
     private static final int MIN_RANGO = 70;
     private static final int MAX_RANGO = 100;
     private Socket socketPushFog;
+
     public ControllerSensorHumedad(char tipo, String idSensor, LocalDateTime localDateTime) {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
