@@ -6,9 +6,8 @@ import java.util.Random;
 import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
-import com.edge.model.Sensor;
-import com.edge.model.SensorHumo;
-
+import com.models.Sensor;
+import com.models.SensorHumo;
 
 public class ControllerSensorHumo extends ControllerSensor {
 

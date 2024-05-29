@@ -1,4 +1,4 @@
-package com.edge.model;
+package com.models;
 
 import java.time.LocalDateTime;
 

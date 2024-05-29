@@ -1,25 +1,26 @@
-package com.edge.model;
+package com.models;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class SensorHumedad extends Sensor{
-    private int humedad;
+public class SensorHumo extends Sensor {
+    
+    private boolean detectorHumo;
 
-    public SensorHumedad(){
+    public SensorHumo() {
         super();
     }
 
-    public SensorHumedad(String idSensor, LocalDateTime localDateTime) {
+    public SensorHumo(String idSensor, LocalDateTime localDateTime) {
         super(idSensor, localDateTime);
     }
 
-    public int getHumedad() {
-        return humedad;
+    public boolean isDetectorHumo() {
+        return detectorHumo;
     }
 
-    public void setHumedad(int humedad) {
-        this.humedad = humedad;
+    public void setDetectorHumo(boolean detectorHumo) {
+        this.detectorHumo = detectorHumo;
     }
 
     @Override
@@ -27,8 +28,7 @@ public class SensorHumedad extends Sensor{
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
         String formattedDateTime = super.getLocalDateTime().format(formatter);
         return  "ID: " + super.getIdSensor() +
-                " Hdad: " + humedad +
+                " Stat: " + detectorHumo +
                 " Hora: " + formattedDateTime;
     }
-
 }

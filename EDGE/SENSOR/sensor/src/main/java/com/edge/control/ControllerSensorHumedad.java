@@ -6,10 +6,7 @@ import java.util.Random;
 import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
-import com.edge.model.Sensor;
-import com.edge.model.SensorHumedad;
-import com.edge.view.ImpInterfaceSensor;
-import com.edge.view.InterfaceSensor;
+import com.models.SensorHumedad;
 
 public class ControllerSensorHumedad extends ControllerSensor {
 

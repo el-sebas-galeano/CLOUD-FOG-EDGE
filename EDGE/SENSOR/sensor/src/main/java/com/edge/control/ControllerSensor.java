@@ -4,7 +4,7 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
-import com.edge.model.Sensor;
+import com.models.Sensor;
 import com.edge.view.ImpInterfaceSensor;
 import com.edge.view.InterfaceSensor;
 

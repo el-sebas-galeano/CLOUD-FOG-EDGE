@@ -6,7 +6,9 @@ import java.util.Random;
 import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
-import com.edge.model.SensorTemperatura;
+import com.models.SensorTemperatura;
+
+
 
 public class ControllerSensorTemperatura extends ControllerSensor{
 
