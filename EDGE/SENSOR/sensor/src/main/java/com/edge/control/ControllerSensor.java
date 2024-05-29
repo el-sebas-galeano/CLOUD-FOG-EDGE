@@ -24,7 +24,7 @@ public abstract class ControllerSensor implements Runnable {
     public String enviarAlarma(String alarma){
         try(Socket socketCalidad = context.createSocket(SocketType.REQ);){
             socketCalidad.connect("tcp://localhost:5110");
-            String alarma2= "Alarma recibida por: "+ sensorInfo.getIdSensor()+ " con valor: "+ alarma; 
+            String alarma2= "A "+ sensorInfo.getIdSensor()+ " "+ alarma; 
             socketCalidad.send(alarma2.getBytes());
             
             String respuesta= socketCalidad.recvStr();

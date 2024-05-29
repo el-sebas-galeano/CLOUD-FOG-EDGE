@@ -33,7 +33,7 @@ public class ControllerSensorTemperatura extends ControllerSensor{
                 generarAlarma(((SensorTemperatura) this.sensorInfo).getTemperatura());
             }
 
-            enviarMensaje(socketPushFog, this.sensorInfo.toString());
+            enviarMensaje(socketPushFog, "M " + this.sensorInfo.toString());
 
             try{
                 Thread.sleep(6000);

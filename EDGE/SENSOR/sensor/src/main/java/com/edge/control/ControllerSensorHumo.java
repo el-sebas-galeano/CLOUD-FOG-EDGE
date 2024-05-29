@@ -31,7 +31,7 @@ public class ControllerSensorHumo extends ControllerSensor {
             this.sensorInfo.setLocalDateTime(LocalDateTime.now());
             interfaceSensor.imprimir(this.sensorInfo.toString());
 
-            enviarMensaje(socketPushFog, this.sensorInfo.toString());
+            enviarMensaje(socketPushFog, "M " + this.sensorInfo.toString());
 
             if (((SensorHumo) this.sensorInfo).isDetectorHumo()) {
                 activarActuador(this.sensorInfo);
