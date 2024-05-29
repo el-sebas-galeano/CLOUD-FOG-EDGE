@@ -13,11 +13,7 @@ public class ControllerSensorHumedad extends ControllerSensor {
     private char tipo = ' ';
     private static final int MIN_RANGO = 70;
     private static final int MAX_RANGO = 100;
-<<<<<<< Updated upstream
-=======
     private Socket socketPushFog;
-
->>>>>>> Stashed changes
     public ControllerSensorHumedad(char tipo, String idSensor, LocalDateTime localDateTime) {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
