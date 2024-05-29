@@ -22,6 +22,9 @@ public class ControllerSensorTemperatura extends ControllerSensor{
             ((SensorTemperatura) this.sensorInfo).setTemperatura(generarValor(this.tipo));
             this.sensorInfo.setLocalDateTime(LocalDateTime.now());
             interfaceSensor.imprimir(this.sensorInfo.toString());
+            if(tipo == 'F'){
+                generarAlarma(((SensorTemperatura) this.sensorInfo).getTemperatura());
+            }
             try{
                 Thread.sleep(6000);
             } catch (InterruptedException interruptedException){

@@ -13,7 +13,6 @@ public class ControllerSensorHumedad extends ControllerSensor {
     private char tipo = ' ';
     private static final int MIN_RANGO = 70;
     private static final int MAX_RANGO = 100;
-    private Random random;
     public ControllerSensorHumedad(char tipo, String idSensor, LocalDateTime localDateTime) {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
@@ -62,7 +61,5 @@ public class ControllerSensorHumedad extends ControllerSensor {
         
         return -random.nextInt(100);
     }
-    private String generarAlarma(int medida){
-        return enviarAlarma(Integer.toString(medida));
-    }
+    
 }

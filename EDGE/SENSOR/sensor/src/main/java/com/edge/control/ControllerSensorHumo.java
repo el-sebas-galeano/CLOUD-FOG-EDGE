@@ -35,6 +35,7 @@ public class ControllerSensorHumo extends ControllerSensor {
 
             if (((SensorHumo) this.sensorInfo).isDetectorHumo()) {
                 activarActuador(this.sensorInfo);
+                generarAlarma();
             }
 
             // Enviar Info a SC
