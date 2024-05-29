@@ -3,6 +3,9 @@ package com.edge.control;
 import java.time.LocalDateTime;
 import java.util.Random;
 
+import org.zeromq.SocketType;
+import org.zeromq.ZMQ.Socket;
+
 import com.edge.model.SensorTemperatura;
 
 public class ControllerSensorTemperatura extends ControllerSensor{
@@ -10,10 +13,14 @@ public class ControllerSensorTemperatura extends ControllerSensor{
     char tipo = ' ';
     private static final float MIN_RANGO = 11.0f;
     private static final float MAX_RANGO = 29.4f;
+    private Socket socketPushFog;
+
 
     public ControllerSensorTemperatura (char tipo, String idSensor, LocalDateTime localDateTime){
         this.tipo = tipo;
         sensorInfo = new SensorTemperatura(idSensor, localDateTime);
+        this.socketPushFog = context.createSocket(SocketType.PUSH);
+        this.socketPushFog.connect("tcp://localhost:5120");
     }
 
     @Override
@@ -25,6 +32,9 @@ public class ControllerSensorTemperatura extends ControllerSensor{
             if(tipo == 'F'){
                 generarAlarma(((SensorTemperatura) this.sensorInfo).getTemperatura());
             }
+
+            enviarMensaje(socketPushFog, this.sensorInfo.toString());
+
             try{
                 Thread.sleep(6000);
             } catch (InterruptedException interruptedException){

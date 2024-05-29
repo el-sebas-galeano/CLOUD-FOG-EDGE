@@ -12,14 +12,14 @@ import com.edge.model.SensorHumo;
 
 public class ControllerSensorHumo extends ControllerSensor {
 
-    private Socket socketPush;
+    private Socket socketPushActivator;
     private Socket socketPushFog;
 
     public ControllerSensorHumo(int posicion, String idSensor, LocalDateTime localDateTime) {
         this.sensorInfo = new SensorHumo(idSensor, localDateTime);
-        this.socketPush = context.createSocket(SocketType.PUSH);
+        this.socketPushActivator = context.createSocket(SocketType.PUSH);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        socketPush.connect("tcp://localhost:5100");
+        socketPushActivator.connect("tcp://localhost:5100");
         socketPushFog.connect("tcp://localhost:5120");
     }
 
@@ -50,14 +50,14 @@ public class ControllerSensorHumo extends ControllerSensor {
 
     public void activarActuador(Sensor sensor) {
         String mensaje = "El actuador ha sido activado por el sensor " + sensor.getIdSensor();
-        enviarMensaje(socketPush, mensaje);
+        enviarMensaje(socketPushActivator, mensaje);
         interfaceSensor.imprimir("Actuador Activado.");
     }
 
     // Método para cerrar el contexto y el socket al finalizar
     public void close() {
-        if (socketPush != null) {
-            socketPush.close();
+        if (socketPushActivator != null) {
+            socketPushActivator.close();
         }
         if (context != null) {
             context.close();
