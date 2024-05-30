@@ -29,8 +29,8 @@ public class ControllerDatos implements Runnable {
             while (true) {
                 String data = socketProxy.recvStr();
                 Sensor s =procesarData(data);
-                if(s!=null && s instanceof SensorTemperatura && ((SensorTemperatura)s).getTemperatura()>MIN_RANGO){
-                    sensorManager.addSensor((SensorTemperatura) s);
+                if(s!=null){
+                    sensorManager.addSensor(s);
                 }
             }
         }
