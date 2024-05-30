@@ -27,13 +27,11 @@ public class ControllerDatos implements Runnable {
             socketProxy.bind("tcp://localhost:5220");
 
             while (true) {
-                System.out.println("Esperando.......");
                 String data = socketProxy.recvStr();
                 Sensor s =procesarData(data);
                 if(s!=null && s instanceof SensorTemperatura && ((SensorTemperatura)s).getTemperatura()>MIN_RANGO){
                     sensorManager.addSensor((SensorTemperatura) s);
                 }
-                System.out.println(s.toString());
             }
         }
     }

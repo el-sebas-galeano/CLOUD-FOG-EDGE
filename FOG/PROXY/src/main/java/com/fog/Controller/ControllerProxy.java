@@ -1,5 +1,6 @@
 package com.fog.controller;
 
+
 import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
@@ -26,7 +27,9 @@ public class ControllerProxy implements Runnable{
             while (true) {
                 System.out.println("Esperando......");
                 String data = loadBalancerSocket.recvStr();
-                localServerSocket.send(data);
+                if(data.startsWith("M")){
+                    localServerSocket.send(data);
+                }
                 System.out.println(data);
             }
         } catch (Exception exception) {

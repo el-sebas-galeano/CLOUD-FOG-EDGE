@@ -66,7 +66,7 @@ public class ControllerSensorTemperatura extends ControllerSensor{
         if (random.nextBoolean()) {
             fuera = random.nextFloat() * MIN_RANGO;
         } else {
-            fuera = MAX_RANGO + random.nextFloat() * (100.0f - MAX_RANGO);
+            fuera = MAX_RANGO + random.nextFloat() * (50f - MAX_RANGO);
         }
         return fuera;
     }
