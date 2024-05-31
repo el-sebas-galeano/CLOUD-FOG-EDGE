@@ -36,8 +36,6 @@ public class SensorManager {
             listadoSensoresTemperatura.add(sensor);
         } else if (sensor instanceof SensorHumedad) {
             listadoSensoresHumedad.add(sensor);
-        } else {
-            System.out.println("Tipo de sensor no reconocido: " + sensor.getClass().getName());
         }
     }
 

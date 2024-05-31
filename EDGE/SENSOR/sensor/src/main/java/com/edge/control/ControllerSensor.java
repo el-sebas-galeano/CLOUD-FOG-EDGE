@@ -28,7 +28,7 @@ public abstract class ControllerSensor implements Runnable {
             socketCalidad.send(alarma2.getBytes());
             
             String respuesta= socketCalidad.recvStr();
-            System.out.println(respuesta);
+            System.out.println(respuesta); 
             return respuesta;
         }
     }
