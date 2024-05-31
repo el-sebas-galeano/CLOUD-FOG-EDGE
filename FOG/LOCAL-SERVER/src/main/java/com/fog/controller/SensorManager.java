@@ -19,7 +19,8 @@ import com.models.SensorHumedad;
 import com.models.SensorTemperatura;
 
 public class SensorManager {
-
+    private final float MIN_TEMPERATURA= 11;
+    private final float MAX_TEMPERATURA = 29.4f;
     private List<Sensor> listadoSensoresTemperatura = new ArrayList<>();
     private List<Sensor> listadoSensoresHumedad = new ArrayList<>();
 
@@ -27,12 +28,15 @@ public class SensorManager {
     private int contadorCalculos = 0;
 
     private Socket socketLoadBalancer;
-
+    private Socket socketQuality;
     public SensorManager() {
         // Programar la tarea para ejecutarse cada 10 segundos
         ZContext context = new ZContext();
         this.socketLoadBalancer = context.createSocket(SocketType.PUSH);
+        this.socketQuality =  context.createSocket(SocketType.REQ);
         this.socketLoadBalancer.connect("tcp://localhost:5120");
+        this.socketQuality.connect("tcp://localhost:5130");
+
         scheduler.scheduleAtFixedRate(this::procesarMedicionesTemperatura, 0, 10, TimeUnit.SECONDS);
         scheduler.scheduleAtFixedRate(this::procesarMedicionesHumedad, 0, 5, TimeUnit.SECONDS);
     }
@@ -91,16 +95,20 @@ public class SensorManager {
                     + Float.toString(promedio) + " Hora: " + formattedDateTime;
                     System.out.println();
                     System.out.println("Promedio de Temperatura:");
-                    this.socketLoadBalancer.send(mensaje);
+                    enviarResultados(mensaje);
                     System.out.println(mensaje);
                     System.out.println();
+                    if(promedio>MAX_TEMPERATURA|| promedio < MIN_TEMPERATURA){
+                        String alarma= "A Promedio temperatura fuera de los rangos establecidos...! "+ Float.toString(promedio);
+                        enviarAlarma(alarma);   
+                    }
                     return mensaje;
             } else if (sensors.get(0) instanceof SensorHumedad) {
                 String mensaje = "C ID: Calculo-Humedad-" + contadorCalculos + " PromedioTemperatura: "
                     + Float.toString(promedio) + " Hora: " + formattedDateTime;
                     System.out.println();
                     System.out.println("Promedio de Humedad");
-                    this.socketLoadBalancer.send(mensaje);
+                    enviarResultados(mensaje);
                     System.out.println(mensaje);
                     System.out.println();
                     return mensaje;
@@ -108,13 +116,13 @@ public class SensorManager {
         }
         return "";
     }
-
+    private void enviarAlarma(String alarma){
+        this.socketQuality.send(alarma);
+        String recibido = this.socketQuality.recvStr();
+        System.out.println(recibido);
+    }
     private void enviarResultados(String resultado) {
-        try (ZContext context = new ZContext()) {
-            ZMQ.Socket pushSocket = context.createSocket(SocketType.PUSH);
-            pushSocket.connect("tcp://localhost:5120");
-            pushSocket.send(resultado);
-        }
+        this.socketLoadBalancer.send(resultado);
     }
 
     private void procesarMedicionesHumedad() {
