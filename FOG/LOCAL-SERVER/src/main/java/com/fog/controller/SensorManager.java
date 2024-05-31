@@ -12,6 +12,7 @@ import java.util.regex.Pattern;
 import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ;
+import org.zeromq.ZMQ.Socket;
 
 import com.models.Sensor;
 import com.models.SensorHumedad;
@@ -25,8 +26,13 @@ public class SensorManager {
     private ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
     private int contadorCalculos = 0;
 
+    private Socket socketLoadBalancer;
+
     public SensorManager() {
         // Programar la tarea para ejecutarse cada 10 segundos
+        ZContext context = new ZContext();
+        this.socketLoadBalancer = context.createSocket(SocketType.PUSH);
+        this.socketLoadBalancer.connect("tcp://localhost:5120");
         scheduler.scheduleAtFixedRate(this::procesarMedicionesTemperatura, 0, 10, TimeUnit.SECONDS);
         scheduler.scheduleAtFixedRate(this::procesarMedicionesHumedad, 0, 5, TimeUnit.SECONDS);
     }
@@ -85,6 +91,7 @@ public class SensorManager {
                     + Float.toString(promedio) + " Hora: " + formattedDateTime;
                     System.out.println();
                     System.out.println("Promedio de Temperatura:");
+                    this.socketLoadBalancer.send(mensaje);
                     System.out.println(mensaje);
                     System.out.println();
                     return mensaje;
@@ -93,6 +100,7 @@ public class SensorManager {
                     + Float.toString(promedio) + " Hora: " + formattedDateTime;
                     System.out.println();
                     System.out.println("Promedio de Humedad");
+                    this.socketLoadBalancer.send(mensaje);
                     System.out.println(mensaje);
                     System.out.println();
                     return mensaje;
