@@ -19,6 +19,7 @@ public class App
             System.out.println("Esperando mensajes del proxy!...");
             while (!Thread.currentThread().isInterrupted()) {
                 String data = socketCloud.recvStr();
+                System.out.println(data);
                 if(data.startsWith("A")){
                     fileAlarmas.log(data);
                 }else if(data.startsWith("M")){

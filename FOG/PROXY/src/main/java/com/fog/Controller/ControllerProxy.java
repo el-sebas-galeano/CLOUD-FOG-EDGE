@@ -19,7 +19,9 @@ public class ControllerProxy implements Runnable{
     public void run() {
         try (ZContext context = new ZContext()) {
             Socket loadBalancerSocket = context.createSocket(SocketType.PULL);
+            Socket socketCloud = context.createSocket(SocketType.REQ);
             loadBalancerSocket.bind(url_lb);
+            socketCloud.connect("tcp://localhost:5230");
 
             Socket localServerSocket = context.createSocket(SocketType.PUSH);
             localServerSocket.connect(url_ls);
@@ -27,8 +29,11 @@ public class ControllerProxy implements Runnable{
             while (true) {
                 System.out.println("Esperando......");
                 String data = loadBalancerSocket.recvStr();
+                socketCloud.send(data);
+                String reply = socketCloud.recvStr();
+                System.out.println(reply);
                 if(data.startsWith("M")){
-                    localServerSocket.send(data);
+                    localServerSocket.send(data.getBytes());
                 }
                 System.out.println(data);
             }
