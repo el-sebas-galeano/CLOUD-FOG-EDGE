@@ -17,6 +17,7 @@ import org.zeromq.ZMQ.Socket;
 import com.models.Sensor;
 import com.models.SensorHumedad;
 import com.models.SensorTemperatura;
+import com.models.direcciones.Direcciones;
 
 public class SensorManager {
     private final float MIN_TEMPERATURA= 11;
@@ -34,8 +35,8 @@ public class SensorManager {
         ZContext context = new ZContext();
         this.socketLoadBalancer = context.createSocket(SocketType.PUSH);
         this.socketQuality =  context.createSocket(SocketType.REQ);
-        this.socketLoadBalancer.connect("tcp://localhost:5120");
-        this.socketQuality.connect("tcp://localhost:5130");
+        this.socketLoadBalancer.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+ Direcciones.PUERTO_LOAD_BALANCER_PULL);
+        this.socketQuality.connect("tcp://"+Direcciones.DIRECCION_IP_EDGE_CALIDAD+":"+Direcciones.PUERTO_LSERVER_FOGCALIDAD);
 
         scheduler.scheduleAtFixedRate(this::procesarMedicionesTemperatura, 0, 10, TimeUnit.SECONDS);
         scheduler.scheduleAtFixedRate(this::procesarMedicionesHumedad, 0, 5, TimeUnit.SECONDS);

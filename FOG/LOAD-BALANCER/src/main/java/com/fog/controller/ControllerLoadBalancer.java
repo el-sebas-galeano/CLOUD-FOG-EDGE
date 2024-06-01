@@ -4,6 +4,8 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
+import com.models.direcciones.Direcciones;
+
 public class ControllerLoadBalancer implements Runnable{
     private String urlPull= "*";
     private String urlPush= "10.43.101.36";
@@ -15,8 +17,8 @@ public class ControllerLoadBalancer implements Runnable{
     private Socket socketNotificacion;
     public ControllerLoadBalancer() {
         this.context = new ZContext();
-        socketPull = crearPullSocket("tcp://"+urlPull+":"+ puertoPull);
-        socketPush = crearPushSocket("tcp://"+urlPush+":"+puertoPush);
+        socketPull = crearPullSocket("tcp://"+urlPull+":"+ Direcciones.PUERTO_LOAD_BALANCER_PULL);
+        socketPush = crearPushSocket("tcp://"+Direcciones.DIRECCION_IP_PROXYA+":"+Direcciones.PUERTO_PROXY_BALANCER_PUSH);
     }
 
     @Override

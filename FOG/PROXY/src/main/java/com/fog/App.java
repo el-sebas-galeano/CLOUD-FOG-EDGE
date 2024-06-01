@@ -3,6 +3,7 @@ package com.fog;
 
 import com.fog.controller.ControllerMonitor;
 import com.fog.controller.ControllerProxy;
+import com.models.direcciones.Direcciones;
 
 public class App {
 
@@ -16,7 +17,7 @@ public class App {
             System.exit(1);
         }
         PUERTO = args[1];
-        ControllerProxy controllerProxy =  new ControllerProxy("tcp://*:" +PUERTO, "tcp://" + args[0] + ":" + PUERTO_LOCAL_SERVER);
+        ControllerProxy controllerProxy =  new ControllerProxy("tcp://*:" +PUERTO, "tcp://" + args[0] + ":" + Direcciones.PUERTO_PROXY_LSERVER);
 
         new Thread(controllerProxy).start();
         ControllerMonitor controllerMonitor = new ControllerMonitor();

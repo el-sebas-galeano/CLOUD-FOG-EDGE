@@ -5,6 +5,9 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ;
 import org.zeromq.ZMQ.Socket;
+
+import com.models.direcciones.Direcciones;
+
 import org.zeromq.ZMQException;
 
 public class ControllerHeartBeat implements Runnable {
@@ -17,7 +20,7 @@ public class ControllerHeartBeat implements Runnable {
         try (ZContext context = new ZContext()) {
             Socket socketBeat = createSocket(context);
             socketNotifiacion = context.createSocket(SocketType.REQ);
-            socketNotifiacion.connect("tcp://localhost:5410");
+            socketNotifiacion.connect("tcp://"+Direcciones.DIRECCION_IP_PROXYA+":"+Direcciones.PUERTO_MONITOR_PROXY_NOTIFICACION);
             String mensaje = "Ok";
             int retriesLeft = MAX_RETRIES;
 
@@ -56,7 +59,7 @@ public class ControllerHeartBeat implements Runnable {
 
     private Socket createSocket(ZContext context) {
         Socket socket = context.createSocket(SocketType.REQ);
-        socket.connect("tcp://10.43.101.36:5400");
+        socket.connect("tcp://"+Direcciones.DIRECCION_IP_PROXYA+":"+Direcciones.PUERTO_MONITOR_PROXY_BEAT);
         socket.setReceiveTimeOut(5000);
         return socket;
     }
