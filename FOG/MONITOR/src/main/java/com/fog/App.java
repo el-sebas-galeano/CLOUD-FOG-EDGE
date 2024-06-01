@@ -1,5 +1,7 @@
 package com.fog;
 
+import com.fog.controller.ControllerHeartBeat;
+
 /**
  * Hello world!
  *
@@ -8,6 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        ControllerHeartBeat controllerHeartBeat = new ControllerHeartBeat();
+        new Thread(controllerHeartBeat).start();
     }
 }
