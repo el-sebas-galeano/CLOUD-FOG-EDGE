@@ -4,6 +4,8 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
+import com.models.direcciones.Direcciones;
+
 
 public class App 
 {
@@ -11,7 +13,7 @@ public class App
     {
         try(ZContext context = new ZContext()){
             Socket socketCalidad=context.createSocket(SocketType.REP);
-            socketCalidad.bind("tcp://localhost:5300");
+            socketCalidad.bind("tcp://"+Direcciones.DIRECCION_IP_CLOUD_CALIDAD+":"+Direcciones.PUERTO_CLOUDCALIDAD_CLOUD);
             System.out.println("Esperando Alarmas!...");
             while (!Thread.currentThread().isInterrupted()) {
                 String alarma = socketCalidad.recvStr();

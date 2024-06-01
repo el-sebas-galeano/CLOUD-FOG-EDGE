@@ -6,6 +6,7 @@ import org.zeromq.ZMQ.Socket;
 
 import com.cloud.control.DataManager;
 import com.cloud.utils.Logger;
+import com.models.direcciones.Direcciones;
 
 public class App 
 {
@@ -16,7 +17,7 @@ public class App
         Logger fileCalculos = new Logger("calculos.txt");
         try(ZContext context = new ZContext()){
             Socket socketCloud = context.createSocket(SocketType.REP);
-            socketCloud.bind("tcp://localhost:5230");
+            socketCloud.bind("tcp://*:"+Direcciones.PUERTO_PROXY_CLOUD);
             System.out.println("Esperando mensajes del proxy!...");
             while (!Thread.currentThread().isInterrupted()) {
                 String data = socketCloud.recvStr();
