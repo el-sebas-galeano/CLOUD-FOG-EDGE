@@ -5,6 +5,8 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
+import com.models.direcciones.Direcciones;
+
 public class ControllerProxy implements Runnable{
 
     public String url_lb = "";
@@ -20,9 +22,9 @@ public class ControllerProxy implements Runnable{
         try (ZContext context = new ZContext()) {
             Socket loadBalancerSocket = context.createSocket(SocketType.PULL);
             Socket socketCloud = context.createSocket(SocketType.REQ);
-            System.out.println(url_lb);
+            System.out.println(url_ls);
             loadBalancerSocket.bind(url_lb);
-            socketCloud.connect("tcp://10.43.100.130:5230");
+            socketCloud.connect("tcp://"+Direcciones.DIRECCION_IP_CLOUD+":"+Direcciones.PUERTO_PROXY_CLOUD);
 
             Socket localServerSocket = context.createSocket(SocketType.PUSH);
             localServerSocket.connect(url_ls);

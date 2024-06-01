@@ -17,7 +17,7 @@ public class ControllerLoadBalancer implements Runnable{
     private Socket socketNotificacion;
     public ControllerLoadBalancer() {
         this.context = new ZContext();
-        socketPull = crearPullSocket("tcp://"+urlPull+":"+ Direcciones.PUERTO_LOAD_BALANCER_PULL);
+        socketPull = crearPullSocket("tcp://*"+":"+ Direcciones.PUERTO_LOAD_BALANCER_PULL);
         socketPush = crearPushSocket("tcp://"+Direcciones.DIRECCION_IP_PROXYA+":"+Direcciones.PUERTO_PROXY_BALANCER_PUSH);
     }
 
@@ -46,7 +46,7 @@ public class ControllerLoadBalancer implements Runnable{
     private void startfailureListener(){
         new Thread(()-> {
             try(Socket socketNotificacion = context.createSocket(SocketType.REP)){
-                socketNotificacion.bind("tcp://localhost:5410");
+                socketNotificacion.bind("tcp://*:5410"+Direcciones.PUERTO_MONITOR_PROXY_NOTIFICACION);
                 while (true) {
                     String mensaje= socketNotificacion.recvStr();
                     if(mensaje.startsWith("failure")){
