@@ -5,6 +5,7 @@ import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
 import com.models.Sensor;
+import com.models.direcciones.Direcciones;
 import com.edge.view.ImpInterfaceSensor;
 import com.edge.view.InterfaceSensor;
 
@@ -23,7 +24,7 @@ public abstract class ControllerSensor implements Runnable {
 
     public String enviarAlarma(String alarma){
         try(Socket socketCalidad = context.createSocket(SocketType.REQ);){
-            socketCalidad.connect("tcp://localhost:5110");
+            socketCalidad.connect("tcp://"+Direcciones.DIRECCION_IP_SENSORES+":"+Direcciones.PUERTO_EDGECALIDAD_SENSOR);
             String alarma2= "A "+ sensorInfo.getIdSensor()+ " "+ alarma; 
             socketCalidad.send(alarma2.getBytes());
             

@@ -3,18 +3,20 @@ package com.edge.control;
 import java.time.LocalDateTime;
 import java.util.Random;
 
+import javax.sound.sampled.FloatControl;
+
 import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
 import com.models.SensorTemperatura;
+import com.models.direcciones.Direcciones;
+import com.rangos.Rangos;
 
 
 
 public class ControllerSensorTemperatura extends ControllerSensor{
 
     char tipo = ' ';
-    private static final float MIN_RANGO = 11.0f;
-    private static final float MAX_RANGO = 29.4f;
     private Socket socketPushFog;
 
 
@@ -22,7 +24,7 @@ public class ControllerSensorTemperatura extends ControllerSensor{
         this.tipo = tipo;
         sensorInfo = new SensorTemperatura(idSensor, localDateTime);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        this.socketPushFog.connect("tcp://10.43.100.126:5120");
+        this.socketPushFog.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.DIRECCION_IP_LOAD_BALANCER);
     }
 
     @Override
@@ -57,16 +59,16 @@ public class ControllerSensorTemperatura extends ControllerSensor{
 
     private static float generarDentroDelRango() {
         Random random = new Random();
-        return MIN_RANGO + (MAX_RANGO - MIN_RANGO) * random.nextFloat();
+        return Float.parseFloat(Rangos.MIN_TEMPERATURA) + (Float.parseFloat(Rangos.MAX_TEMPERATURA) - Float.parseFloat( Rangos.MIN_TEMPERATURA)) * random.nextFloat();
     }
 
     private static float generarFueraDelRango() {
         Random random = new Random();
         float fuera;
         if (random.nextBoolean()) {
-            fuera = random.nextFloat() * MIN_RANGO;
+            fuera = random.nextFloat() * Float.parseFloat(Rangos.MIN_TEMPERATURA);
         } else {
-            fuera = MAX_RANGO + random.nextFloat() * (50f - MAX_RANGO);
+            fuera = Float.parseFloat(Rangos.MAX_TEMPERATURA) + random.nextFloat() * (50f - (Float.parseFloat(Rangos.MAX_TEMPERATURA)));
         }
         return fuera;
     }

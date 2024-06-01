@@ -8,6 +8,7 @@ import org.zeromq.ZMQ.Socket;
 
 import com.models.Sensor;
 import com.models.SensorHumo;
+import com.models.direcciones.Direcciones;
 
 public class ControllerSensorHumo extends ControllerSensor {
 
@@ -18,8 +19,8 @@ public class ControllerSensorHumo extends ControllerSensor {
         this.sensorInfo = new SensorHumo(idSensor, localDateTime);
         this.socketPushActivator = context.createSocket(SocketType.PUSH);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        socketPushActivator.connect("tcp://localhost:5100");
-        socketPushFog.connect("tcp://10.43.100.126:5120");
+        socketPushActivator.connect("tcp://"+Direcciones.DIRECCION_IP_ACTUADOR+":"+Direcciones.PUERTO_ACTIVADOR_SENSOR);
+        socketPushFog.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
     }
 
     @Override
