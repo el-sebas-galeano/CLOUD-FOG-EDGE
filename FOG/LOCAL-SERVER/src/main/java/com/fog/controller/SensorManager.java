@@ -91,11 +91,10 @@ public class SensorManager {
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
             String formattedDateTime = LocalDateTime.now().format(formatter);
             if (sensors.get(0) instanceof SensorTemperatura) {
-                String mensaje = "C ID: Calculo-Temperatura-" + contadorCalculos + " PromedioTemperatura: "
+                String mensaje = "C ID: CT-" + contadorCalculos + " PromedioTemperatura: "
                     + Float.toString(promedio) + " Hora: " + formattedDateTime;
                     System.out.println();
                     System.out.println("Promedio de Temperatura:");
-                    enviarResultados(mensaje);
                     System.out.println(mensaje);
                     System.out.println();
                     if(promedio>MAX_TEMPERATURA|| promedio < MIN_TEMPERATURA){
@@ -104,11 +103,10 @@ public class SensorManager {
                     }
                     return mensaje;
             } else if (sensors.get(0) instanceof SensorHumedad) {
-                String mensaje = "C ID: Calculo-Humedad-" + contadorCalculos + " PromedioTemperatura: "
+                String mensaje = "C ID: CH-" + contadorCalculos + " PromedioHumedad: "
                     + Float.toString(promedio) + " Hora: " + formattedDateTime;
                     System.out.println();
                     System.out.println("Promedio de Humedad");
-                    enviarResultados(mensaje);
                     System.out.println(mensaje);
                     System.out.println();
                     return mensaje;

@@ -11,7 +11,7 @@ public class App
     {
         try(ZContext context = new ZContext()){
             Socket socketPull = context.createSocket(SocketType.PULL);
-            socketPull.bind("tcp://localhost:5100");
+            socketPull.bind("tcp://*:5100");
             while (!Thread.currentThread().isInterrupted()) {
                 System.out.println("Esperando sensor de humo!...");
                 String message = socketPull.recvStr();
