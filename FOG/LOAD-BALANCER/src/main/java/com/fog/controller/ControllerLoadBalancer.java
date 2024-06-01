@@ -7,7 +7,7 @@ import org.zeromq.ZMQ.Socket;
 import com.models.direcciones.Direcciones;
 
 public class ControllerLoadBalancer implements Runnable{
-    private String urlPull= "localhost";
+    private String urlPull= Direcciones.DIRECCION_IP_LOAD_BALANCER;
     private String urlPush= "localhost";
     private String puertoPull = Direcciones.PUERTO_LOAD_BALANCER_PULL ;
     private String puertoPush = Direcciones.PUERTO_PROXY_BALANCER_PUSH;

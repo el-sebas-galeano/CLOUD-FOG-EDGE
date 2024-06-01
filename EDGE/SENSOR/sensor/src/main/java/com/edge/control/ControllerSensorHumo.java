@@ -20,7 +20,7 @@ public class ControllerSensorHumo extends ControllerSensor {
         this.socketPushActivator = context.createSocket(SocketType.PUSH);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
         socketPushActivator.connect("tcp://localhost:"+Direcciones.PUERTO_ACTIVADOR_SENSOR);
-        socketPushFog.connect("tcp://localhost:"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
+        socketPushFog.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
     }
 
     @Override

@@ -13,7 +13,7 @@ public class ControllerAlarmasBalancer implements Runnable{
         try(ZContext context = new ZContext()){
             Socket socketEnviador = context.createSocket(SocketType.PUSH); 
             Socket socketRecibidor = context.createSocket(SocketType.REP);
-            socketEnviador.connect("tcp://localhost:"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
+            socketEnviador.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
             socketRecibidor.bind("tcp://*:"+Direcciones.PUERTO_LSERVER_FOGCALIDAD);
             System.out.println("Esperando Alarmas!...");
             while(!Thread.currentThread().isInterrupted()){

@@ -1,6 +1,5 @@
 package com.fog;
 
-
 import com.fog.controller.ControllerMonitor;
 import com.fog.controller.ControllerProxy;
 

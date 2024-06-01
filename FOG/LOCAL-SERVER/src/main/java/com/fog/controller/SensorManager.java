@@ -35,7 +35,7 @@ public class SensorManager {
         ZContext context = new ZContext();
         this.socketLoadBalancer = context.createSocket(SocketType.PUSH);
         this.socketQuality =  context.createSocket(SocketType.REQ);
-        this.socketLoadBalancer.connect("tcp://localhost:"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
+        this.socketLoadBalancer.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
         this.socketQuality.connect("tcp://localhost:"+Direcciones.PUERTO_LSERVER_FOGCALIDAD);
 
         scheduler.scheduleAtFixedRate(this::procesarMedicionesTemperatura, 0, 10, TimeUnit.SECONDS);

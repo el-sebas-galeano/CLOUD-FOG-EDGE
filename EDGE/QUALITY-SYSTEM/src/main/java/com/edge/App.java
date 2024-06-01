@@ -14,7 +14,7 @@ public class App
             Socket socketCalidad=context.createSocket(SocketType.REP);
             Socket socketProxy = context.createSocket(SocketType.PUSH);
             socketCalidad.bind("tcp://*:"+Direcciones.PUERTO_EDGECALIDAD_SENSOR);
-            socketProxy.connect("tcp://localhost:"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
+            socketProxy.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
             System.out.println("Esperando Alarmas!...");
             while (!Thread.currentThread().isInterrupted()) {
                 String alarma = socketCalidad.recvStr();
