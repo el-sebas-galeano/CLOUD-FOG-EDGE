@@ -10,12 +10,14 @@ import org.zeromq.ZMQException;
 public class ControllerHeartBeat implements Runnable {
 
     private static final int MAX_RETRIES = 3; // Número máximo de reintentos
+    private Socket socketNotifiacion;
 
     @Override
     public void run() {
         try (ZContext context = new ZContext()) {
             Socket socketBeat = createSocket(context);
-
+            socketNotifiacion = context.createSocket(SocketType.REQ);
+            socketNotifiacion.connect("tcp://localhost:5410");
             String mensaje = "Ok";
             int retriesLeft = MAX_RETRIES;
 
@@ -53,7 +55,7 @@ public class ControllerHeartBeat implements Runnable {
     }
 
     private Socket createSocket(ZContext context) {
-        Socket socket = context.createSocket(SocketType.REQ);
+        Socket socket = context.createSocket(SocketType.PUSH);
         socket.connect("tcp://localhost:5400");
         socket.setReceiveTimeOut(5000);
         return socket;
@@ -66,6 +68,6 @@ public class ControllerHeartBeat implements Runnable {
 
     private void failure() {
         System.out.println("Máximo número de reintentos alcanzado. Fallo detectado.");
-        // Implementa la lógica adicional para manejar el fallo
+        socketNotifiacion.send("failure"+ " tcp://localhost:5240");
     }
 }
