@@ -55,7 +55,7 @@ public class ControllerHeartBeat implements Runnable {
     }
 
     private Socket createSocket(ZContext context) {
-        Socket socket = context.createSocket(SocketType.PUSH);
+        Socket socket = context.createSocket(SocketType.REQ);
         socket.connect("tcp://localhost:5400");
         socket.setReceiveTimeOut(5000);
         return socket;
