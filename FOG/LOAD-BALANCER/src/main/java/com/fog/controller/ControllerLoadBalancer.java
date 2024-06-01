@@ -4,11 +4,13 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
+import com.models.direcciones.Direcciones;
+
 public class ControllerLoadBalancer implements Runnable{
     private String urlPull= "localhost";
     private String urlPush= "localhost";
-    private String puertoPull =Integer.toString(5120) ;
-    private String puertoPush = Integer.toString(5200);
+    private String puertoPull = Direcciones.PUERTO_LOAD_BALANCER_PULL ;
+    private String puertoPush = Direcciones.PUERTO_PROXY_BALANCER_PUSH;
     private ZContext context;
     private Socket socketPull;
     private Socket socketPush;

@@ -7,6 +7,7 @@ import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
 import com.models.SensorHumedad;
+import com.models.direcciones.Direcciones;
 
 public class ControllerSensorHumedad extends ControllerSensor {
 
@@ -19,7 +20,7 @@ public class ControllerSensorHumedad extends ControllerSensor {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        socketPushFog.connect("tcp://localhost:5120");
+        socketPushFog.connect("tcp://localhost:"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
     }
 
     @Override

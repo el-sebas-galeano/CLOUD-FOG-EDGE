@@ -12,6 +12,8 @@ import org.zeromq.SocketType;
 import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
+import com.models.direcciones.Direcciones;
+
 public class DataManager {
     private List<Float> listadoMedicionesHumedad = new ArrayList<>();
 
@@ -22,7 +24,7 @@ public class DataManager {
     public DataManager() {
         ZContext context = new ZContext();
         this.socketQuality = context.createSocket(SocketType.REQ);
-        this.socketQuality.connect("tcp://localhost:5300");
+        this.socketQuality.connect("tcp://localhost:"+Direcciones.PUERTO_CLOUDCALIDAD_CLOUD);
         scheduler.scheduleAtFixedRate(this::procesarMedicionesHumedad, 0, 20, TimeUnit.SECONDS);
     }
 

@@ -7,6 +7,7 @@ import org.zeromq.SocketType;
 import org.zeromq.ZMQ.Socket;
 
 import com.models.SensorTemperatura;
+import com.models.direcciones.Direcciones;
 
 
 
@@ -22,7 +23,7 @@ public class ControllerSensorTemperatura extends ControllerSensor{
         this.tipo = tipo;
         sensorInfo = new SensorTemperatura(idSensor, localDateTime);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        this.socketPushFog.connect("tcp://localhost:5120");
+        this.socketPushFog.connect("tcp://localhost:"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
     }
 
     @Override
