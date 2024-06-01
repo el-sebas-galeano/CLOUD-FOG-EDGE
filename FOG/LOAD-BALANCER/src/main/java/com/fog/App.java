@@ -14,7 +14,7 @@ public class App {
     public static void main( String[] args ){
         try (ZContext context = new ZContext()) {
             Socket pullSocket = context.createSocket(SocketType.PULL);
-            pullSocket.bind("tcp://localhost:" + PUERTO_EDGE);
+            pullSocket.bind("tcp://*:" + PUERTO_EDGE);
 
             Socket pushSocket = context.createSocket(SocketType.PUSH);
             pushSocket.connect("tcp://localhost:" + PUERTO_FOG);

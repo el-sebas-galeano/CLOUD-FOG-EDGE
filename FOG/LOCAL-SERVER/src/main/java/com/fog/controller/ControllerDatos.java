@@ -24,7 +24,7 @@ public class ControllerDatos implements Runnable {
     public void run() {
         try(ZContext context = new ZContext()){
             Socket socketProxy = context.createSocket(SocketType.PULL);
-            socketProxy.bind("tcp://localhost:5220");
+            socketProxy.bind("tcp://*:5220");
 
             while (true) {
                 String data = socketProxy.recvStr();

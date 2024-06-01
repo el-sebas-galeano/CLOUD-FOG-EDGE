@@ -1,0 +1,4130 @@
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-007 10.749887
+A S-TEMP-008 44.406326
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 3.4469552
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 36
+A S-HDAD-008 41
+A S-HDAD-009 10
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-007 5.627923
+A S-TEMP-008 49.398613
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 5.194682
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 65
+A S-HDAD-008 31
+A S-HDAD-009 17
+A Promedio temperatura fuera de los rangos establecidos...! 10.866858
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 64
+A S-HDAD-008 45
+A S-HDAD-009 66
+A S-HUMO-002 Encendido el actuador!
+A S-TEMP-007 47.226692
+A S-TEMP-008 35.104263
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 4.045977
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 67
+A S-HDAD-008 67
+A S-HDAD-009 13
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-TEMP-007 2.2859492
+A S-TEMP-008 7.3083553
+A S-HUMO-005 Encendido el actuador!
+A S-TEMP-009 4.8475094
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 63
+A S-HDAD-008 24
+A S-HDAD-009 64
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-007 3.84859
+A S-HUMO-002 Encendido el actuador!
+A S-TEMP-008 3.5408883
+A S-TEMP-009 4.028852
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 44
+A S-HDAD-008 18
+A S-HDAD-009 8
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-007 4.929619
+A S-TEMP-008 38.599476
+A S-HUMO-002 Encendido el actuador!
+A S-TEMP-009 7.3116527
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 53
+A S-HDAD-008 55
+A S-HDAD-009 57
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 46.35927
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-008 5.4176135
+A S-TEMP-009 6.909664
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 36
+A S-HDAD-008 22
+A S-HDAD-009 43
+A Promedio temperatura fuera de los rangos establecidos...! 8.292418
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 64
+A S-HDAD-009 48
+A S-HDAD-008 64
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-007 31.313576
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-008 2.8098714
+A S-HUMO-002 Encendido el actuador!
+A S-TEMP-009 42.25045
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 13
+A S-HDAD-008 21
+A S-HDAD-009 55
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-007 43.710045
+A S-TEMP-008 5.7188406
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-009 41.165314
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 69
+A S-HDAD-008 17
+A S-HDAD-009 30
+A S-HUMO-001 Encendido el actuador!
+A S-TEMP-007 30.657778
+A S-TEMP-008 9.712581
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-009 48.156914
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 47
+A S-HDAD-008 44
+A S-HDAD-009 47
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-007 32.778755
+A S-TEMP-008 5.580939
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-009 7.4246483
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 6
+A S-HDAD-009 4
+A S-HDAD-008 45
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-TEMP-007 38.668354
+A S-TEMP-008 8.655353
+A S-TEMP-009 7.303628
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 69
+A S-HDAD-008 68
+A S-HDAD-009 30
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 23
+A S-HDAD-009 56
+A S-HDAD-008 38
+A S-TEMP-007 33.442005
+A S-TEMP-008 9.567175
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-009 45.021408
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 14
+A S-HDAD-009 40
+A S-HDAD-008 53
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-007 0.5699319
+A S-TEMP-008 45.469242
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-009 8.781626
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 53
+A S-HDAD-009 47
+A S-HDAD-008 59
+A S-TEMP-007 48.66925
+A S-TEMP-008 2.1905427
+A S-TEMP-009 10.948652
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 16
+A S-HDAD-008 30
+A S-HDAD-009 58
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.26647
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-007 3.3555279
+A S-TEMP-008 9.665486
+A S-TEMP-009 6.0054255
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 51
+A S-HDAD-009 46
+A S-HDAD-008 52
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 7.056982
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-008 29.74998
+A S-HUMO-004 Encendido el actuador!
+A S-TEMP-009 36.714863
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 40
+A S-HDAD-009 43
+A S-HDAD-008 47
+A Promedio temperatura fuera de los rangos establecidos...! 1.8761727
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 21
+A S-HDAD-009 57
+A S-HDAD-008 39
+A S-TEMP-007 7.0140333
+A S-TEMP-008 29.579245
+A S-TEMP-009 9.906806
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-007 34
+A S-HDAD-008 3
+A S-HDAD-009 10
+A S-TEMP-007 44.1559
+A S-TEMP-008 0.89149076
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-009 7.5596094
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 22
+A S-HDAD-008 8
+A S-HDAD-009 14
+A S-TEMP-007 4.0509224
+A S-TEMP-008 0.5085715
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-009 2.0813603
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 15
+A S-HDAD-008 15
+A S-HDAD-009 17
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 6.604993
+A S-TEMP-008 36.86799
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-009 37.71918
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 25
+A S-HDAD-008 10
+A S-HDAD-007 66
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 2.3744888
+A S-TEMP-008 8.019989
+A S-TEMP-009 0.010460913
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 19
+A S-HDAD-008 47
+A S-HDAD-007 27
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 24
+A S-HDAD-008 37
+A S-HDAD-007 45
+A S-TEMP-007 2.7918909
+A S-TEMP-008 48.193176
+A S-TEMP-009 46.840828
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 24
+A S-HDAD-008 66
+A S-HDAD-007 59
+A S-TEMP-007 38.47135
+A S-TEMP-008 49.624542
+A S-HUMO-001 Encendido el actuador!
+A S-TEMP-009 4.9385157
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 57
+A S-HDAD-008 22
+A S-HDAD-007 52
+A S-TEMP-007 1.8458716
+A S-TEMP-008 32.888435
+A S-TEMP-009 44.39325
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 28
+A S-HDAD-008 37
+A S-HDAD-007 15
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 3.5821772
+A S-TEMP-008 9.224469
+A S-TEMP-009 10.813451
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 47
+A S-HDAD-007 45
+A S-HDAD-008 1
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 3.693168
+A S-TEMP-008 4.8746424
+A S-TEMP-009 0.84762704
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-009 34
+A S-HDAD-007 8
+A S-HDAD-008 9
+A Promedio temperatura fuera de los rangos establecidos...! 4.796542
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 13
+A S-HDAD-008 61
+A S-HDAD-007 41
+A S-TEMP-007 9.37733
+A S-TEMP-008 2.355774
+A S-TEMP-009 6.7841616
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 15
+A S-HDAD-008 6
+A S-HDAD-007 37
+A S-TEMP-007 38.06877
+A S-TEMP-008 29.62129
+A S-TEMP-009 37.460625
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 6
+A S-HDAD-008 59
+A S-HDAD-007 43
+A S-TEMP-007 2.6964307
+A S-TEMP-008 32.047253
+A S-TEMP-009 43.26918
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 28
+A S-HDAD-008 43
+A S-HDAD-007 38
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 6.9629197
+A S-TEMP-008 30.026794
+A S-TEMP-009 10.230795
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-009 30
+A S-HDAD-008 1
+A S-HDAD-007 16
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 9.957021
+A S-TEMP-008 7.903461
+A S-TEMP-009 38.36486
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-009 17
+A Promedio temperatura fuera de los rangos establecidos...! 10.4620905
+A S-HDAD-008 43
+A S-HDAD-007 40
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 60
+A S-HDAD-008 7
+A S-HDAD-007 4
+A S-TEMP-007 2.9784176
+A S-TEMP-008 33.498062
+A S-TEMP-009 7.602748
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 33
+A S-HDAD-008 3
+A S-HDAD-007 8
+A S-TEMP-007 9.270422
+A S-TEMP-008 2.1719754
+A S-TEMP-009 8.305237
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 67
+A S-HDAD-008 1
+A S-HDAD-007 15
+A S-TEMP-007 3.4213095
+A S-TEMP-008 49.93058
+A S-TEMP-009 1.4082087
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 24
+A S-HDAD-008 42
+A S-HDAD-007 37
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 1.4502386
+A S-TEMP-008 30.524652
+A S-TEMP-009 4.8581557
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 33
+A S-HDAD-008 69
+A S-HDAD-007 10
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 39.004288
+A S-TEMP-008 37.26109
+A S-TEMP-009 47.284042
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 9.815092
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 0
+A S-HDAD-008 2
+A S-HDAD-007 30
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 59
+A S-HDAD-007 46
+A S-HDAD-008 13
+A S-TEMP-007 48.17522
+A S-TEMP-008 6.059188
+A S-TEMP-009 4.060457
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 9.357805
+A S-HDAD-009 32
+A S-HDAD-007 30
+A S-HDAD-008 22
+A S-TEMP-007 6.2282977
+A S-TEMP-008 7.6157017
+A S-TEMP-009 2.2764206
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 66
+A S-HDAD-007 64
+A S-HDAD-008 9
+A S-TEMP-007 44.80696
+A S-TEMP-008 34.653046
+A S-TEMP-009 1.6631527
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 21
+A S-HDAD-008 30
+A S-HDAD-007 20
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-TEMP-007 43.97661
+A S-TEMP-008 6.8045464
+A S-TEMP-009 8.694833
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 39
+A S-HDAD-008 53
+A S-HDAD-007 69
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 49.44463
+A S-TEMP-008 7.1764984
+A S-TEMP-009 34.57453
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 5
+A S-HDAD-008 23
+A S-HDAD-007 26
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 65
+A S-HDAD-007 58
+A S-HDAD-008 66
+A S-TEMP-007 5.0512457
+A S-TEMP-008 6.6520405
+A S-TEMP-009 47.084938
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.70543
+A S-HDAD-009 55
+A S-HDAD-007 61
+A S-HDAD-008 45
+A S-TEMP-008 6.242975
+A S-TEMP-007 34.930164
+A S-TEMP-009 1.7629737
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 50
+A S-HDAD-007 63
+A S-HDAD-008 18
+A S-TEMP-008 33.348206
+A S-TEMP-007 8.997231
+A S-TEMP-009 47.906628
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.22346
+A S-HDAD-009 65
+A S-HDAD-007 24
+A S-HDAD-008 58
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-008 32.45824
+A S-TEMP-007 3.9573646
+A S-TEMP-009 41.07746
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 3
+A S-HDAD-007 6
+A S-HDAD-008 18
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 29.496275
+A S-TEMP-007 29.997179
+A S-TEMP-009 6.4844556
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-009 46
+A S-HDAD-007 34
+A S-HDAD-008 68
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-009 63
+A S-HDAD-007 20
+A S-HDAD-008 23
+A S-TEMP-008 1.6420152
+A S-TEMP-009 43.2293
+A S-TEMP-007 2.6117756
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-009 39
+A S-HDAD-008 29
+A S-HDAD-007 34
+A S-TEMP-008 29.517817
+A S-TEMP-007 37.338303
+A S-TEMP-009 37.31679
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 6
+A S-HDAD-007 17
+A S-HDAD-008 33
+A S-TEMP-008 35.09221
+A S-TEMP-009 8.660648
+A S-TEMP-007 41.05054
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 25
+A S-HDAD-009 0
+A S-HDAD-007 40
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-008 29.992199
+A S-TEMP-009 30.361176
+A S-TEMP-007 37.49346
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-008 25
+A S-HDAD-009 29
+A S-HDAD-007 7
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 5.1657333
+A S-TEMP-007 45.986202
+A S-TEMP-009 6.8088303
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 43
+A S-HDAD-007 38
+A S-HDAD-009 43
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 5.281373
+A S-HDAD-008 54
+A S-HDAD-009 0
+A S-TEMP-009 34.257153
+A S-TEMP-007 5.552262
+A S-HDAD-007 30
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 8.385965
+A S-HDAD-008 13
+A S-HDAD-009 66
+A S-HDAD-007 49
+A S-TEMP-007 2.7705002
+A S-TEMP-009 5.129695
+A S-TEMP-008 9.469769
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 51
+A S-HDAD-007 54
+A S-HDAD-009 9
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 30.937576
+A S-TEMP-007 2.7864404
+A S-TEMP-008 10.445408
+A S-HDAD-008 53
+A S-HDAD-007 14
+A S-HDAD-009 10
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 6.4832544
+A S-TEMP-009 4.719059
+A S-TEMP-008 47.77118
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 12
+A S-HDAD-009 35
+A S-HDAD-007 69
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 6.524431
+A S-TEMP-008 0.48519492
+A S-TEMP-007 8.124676
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-009 0
+A S-HDAD-008 22
+A S-HDAD-007 3
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 1.7848415
+A S-TEMP-007 29.468071
+A S-TEMP-009 36.06844
+A S-HDAD-009 55
+A S-HDAD-008 61
+A S-HDAD-007 21
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 7
+A S-HDAD-008 54
+A S-HDAD-007 9
+A S-TEMP-007 33.93953
+A S-TEMP-009 9.542337
+A S-TEMP-008 6.376278
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-009 53
+A S-HDAD-008 32
+A S-HDAD-007 51
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 10.483581
+A S-TEMP-008 10.552032
+A S-TEMP-009 10.645186
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.883314
+A S-HDAD-008 32
+A S-HDAD-009 6
+A S-HDAD-007 37
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-007 7.948058
+A S-TEMP-009 38.69587
+A S-TEMP-008 4.834652
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 60
+A S-HDAD-007 63
+A S-HDAD-009 30
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 1.238919
+A S-TEMP-009 36.23718
+A S-TEMP-008 44.36862
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 25
+A S-HDAD-007 64
+A S-HDAD-009 11
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-007 43.598625
+A S-TEMP-009 33.058002
+A S-TEMP-008 9.659936
+A S-HDAD-007 32
+A S-HDAD-008 24
+A S-HDAD-009 10
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 66
+A S-HDAD-008 61
+A S-HDAD-007 34
+A S-TEMP-007 0.2365458
+A S-TEMP-009 8.05923
+A S-TEMP-008 10.553431
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-009 14
+A S-HDAD-007 7
+A S-HDAD-008 36
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 10.09878
+A S-TEMP-008 4.264426
+A S-TEMP-009 4.536844
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 7.4391136
+A S-HDAD-007 41
+A S-HDAD-009 41
+A S-HDAD-008 13
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 1.675237
+A S-TEMP-008 0.5764006
+A S-TEMP-009 4.3799996
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-009 59
+A S-HDAD-007 40
+A S-HDAD-008 7
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-007 9.337236
+A S-TEMP-009 9.3391285
+A S-TEMP-008 3.1224334
+A Promedio temperatura fuera de los rangos establecidos...! 3.645614
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 21
+A S-HDAD-007 26
+A S-HDAD-008 33
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 7.1887803
+A S-TEMP-009 8.308168
+A S-TEMP-008 47.46275
+A S-HDAD-009 8
+A S-HDAD-008 54
+A S-HDAD-007 68
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-008 50
+A S-HDAD-009 42
+A S-HDAD-007 66
+A S-TEMP-007 9.444662
+A S-TEMP-008 47.682
+A S-TEMP-009 29.993326
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 39
+A S-HDAD-009 29
+A S-HDAD-008 17
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 39.77874
+A S-TEMP-008 3.2169154
+A S-TEMP-009 1.5279791
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 11
+A S-HDAD-008 65
+A S-HDAD-009 31
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 48.88938
+A S-TEMP-007 35.74371
+A S-TEMP-009 0.34569597
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 19
+A S-HDAD-009 9
+A S-HDAD-007 9
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 7.213786
+A S-TEMP-007 7.7001
+A S-TEMP-009 0.17709398
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-009 54
+A S-HDAD-008 61
+A S-HDAD-007 55
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 10.053201
+A S-TEMP-007 35.68046
+A S-TEMP-009 45.046967
+A S-HDAD-009 55
+A S-HDAD-008 49
+A S-HDAD-007 25
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-009 51
+A S-HDAD-007 21
+A S-HDAD-008 45
+A S-TEMP-007 29.872614
+A S-TEMP-008 39.84975
+A S-TEMP-009 38.43937
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-009 46
+A S-HDAD-008 67
+A S-HDAD-007 17
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 38.044083
+A S-TEMP-009 10.416316
+A S-TEMP-008 43.151722
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 22
+A S-HDAD-008 21
+A S-HDAD-007 41
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 42.854004
+A S-TEMP-009 48.8873
+A S-TEMP-008 1.1187978
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 41
+A S-HDAD-008 57
+A S-HDAD-007 18
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 9.036654
+A S-TEMP-007 0.07339555
+A S-TEMP-009 47.28282
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-009 36
+A S-HDAD-008 46
+A S-HDAD-007 46
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 46.800037
+A S-TEMP-008 2.6304452
+A S-TEMP-009 5.4317584
+A S-HDAD-009 69
+A S-HDAD-008 48
+A S-HDAD-007 12
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-009 51
+A S-HDAD-008 31
+A S-HDAD-007 49
+A S-TEMP-008 8.171538
+A S-TEMP-007 30.358772
+A S-TEMP-009 33.09527
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-009 2
+A S-HDAD-008 30
+A S-HDAD-007 20
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 38.458374
+A S-TEMP-008 42.97264
+A S-TEMP-009 37.703995
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 66
+A S-HDAD-009 59
+A S-HDAD-008 28
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-009 33.109573
+A S-TEMP-007 5.0056114
+A S-TEMP-008 1.7058828
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 23
+A S-HDAD-008 68
+A S-HDAD-007 51
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-009 2.1512601
+A S-TEMP-008 29.997963
+A S-TEMP-007 46.84341
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-008 29
+A S-HDAD-009 59
+A S-HDAD-007 32
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-009 8.787055
+A S-TEMP-008 5.3534193
+A S-TEMP-007 2.724301
+A S-HDAD-008 31
+A S-HDAD-007 52
+A S-HDAD-009 33
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 62
+A S-HDAD-009 31
+A S-HDAD-007 59
+A S-TEMP-008 10.229805
+A S-TEMP-009 31.680037
+A S-TEMP-007 3.8321195
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-009 2
+A S-HDAD-007 63
+A S-HDAD-008 18
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 8.197799
+A S-TEMP-008 10.235533
+A S-TEMP-007 5.857847
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 5.8046637
+A S-HDAD-007 47
+A S-HDAD-009 25
+A S-HDAD-008 46
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-009 2.623746
+A S-TEMP-008 42.275448
+A S-TEMP-007 35.98673
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 23
+A S-HDAD-007 65
+A S-HDAD-008 13
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-TEMP-007 39.116623
+A S-TEMP-009 9.936943
+A S-TEMP-008 33.97347
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-008 57
+A S-HDAD-009 54
+A S-HDAD-007 54
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 9.6598215
+A S-TEMP-007 40.363495
+A S-TEMP-008 40.50041
+A S-HDAD-009 28
+A S-HDAD-008 28
+A S-HDAD-007 5
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-007 14
+A S-HDAD-009 48
+A S-HDAD-008 55
+A S-TEMP-008 6.5354176
+A S-TEMP-007 10.059477
+A S-TEMP-009 37.624596
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-009 25
+A S-HDAD-007 26
+A S-HDAD-008 61
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 2.0698774
+A S-TEMP-009 8.63649
+A S-TEMP-007 44.139877
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.647699
+A S-HDAD-008 61
+A S-HDAD-009 48
+A S-HDAD-007 35
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 42.473614
+A S-TEMP-007 6.312406
+A S-TEMP-008 8.3218975
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 26
+A S-HDAD-009 27
+A S-HDAD-007 51
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-009 44.783527
+A S-TEMP-007 37.65927
+A S-TEMP-008 41.778145
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-008 5
+A S-HDAD-009 39
+A S-HDAD-007 28
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 3.6390963
+A S-TEMP-007 30.193724
+A S-TEMP-008 48.200176
+A S-HDAD-008 67
+A S-HDAD-009 34
+A S-HDAD-007 3
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-009 12
+A S-HDAD-008 19
+A S-HDAD-007 24
+A S-TEMP-008 9.478114
+A S-TEMP-009 30.040302
+A S-TEMP-007 34.942635
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-008 48
+A S-HDAD-009 58
+A S-HDAD-007 42
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 0.2586183
+A S-TEMP-008 8.832994
+A S-TEMP-009 41.01601
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 62
+A S-HDAD-009 50
+A S-HDAD-007 9
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 5.7203245
+A S-TEMP-007 3.4633806
+A S-TEMP-009 38.609703
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-008 43
+A S-HDAD-009 61
+A S-HDAD-007 8
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 30.45551
+A S-TEMP-008 46.114883
+A S-TEMP-009 9.857936
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 22
+A S-HDAD-008 18
+A S-HDAD-007 47
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 8.752384
+A S-TEMP-009 47.168015
+A S-TEMP-007 45.0295
+A S-HDAD-007 34
+A S-HDAD-008 65
+A S-HDAD-009 10
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 37
+A S-HDAD-009 61
+A S-HDAD-008 34
+A S-TEMP-008 41.674313
+A S-TEMP-009 4.3822107
+A S-TEMP-007 10.229634
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-008 36
+A S-HDAD-009 29
+A S-HDAD-007 44
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 47.49527
+A S-TEMP-008 2.140539
+A S-TEMP-009 4.605412
+A S-HUMO-004 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 8.389189
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 55
+A S-HDAD-009 14
+A S-HDAD-007 53
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 5.248662
+A S-TEMP-009 2.6986356
+A S-TEMP-007 37.513306
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 16
+A S-HDAD-009 47
+A S-HDAD-007 15
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 10.137131
+A S-TEMP-008 8.452191
+A S-TEMP-007 48.83966
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-008 12
+A S-HDAD-007 27
+A S-HDAD-009 17
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 7.9071264
+A S-TEMP-008 1.9376916
+A S-TEMP-007 29.551346
+A S-HDAD-007 38
+A S-HDAD-008 16
+A S-HDAD-009 42
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 16
+A S-HDAD-007 4
+A S-HDAD-009 0
+A S-TEMP-008 10.118393
+A S-TEMP-009 10.331495
+A S-TEMP-007 9.642338
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 52
+A S-HDAD-008 29
+A S-HDAD-009 69
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 2.875767
+A S-TEMP-009 3.8884392
+A S-TEMP-007 37.0572
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 45
+A S-HDAD-007 21
+A S-HDAD-009 60
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 45.523323
+A S-TEMP-009 30.026321
+A S-TEMP-007 38.46742
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 25
+A S-HDAD-007 64
+A S-HDAD-009 20
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 46.68211
+A S-TEMP-009 9.700935
+A S-TEMP-007 49.687527
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 17
+A S-HDAD-008 6
+A S-HDAD-009 62
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 30.85262
+A S-TEMP-007 8.351454
+A S-TEMP-009 40.9711
+A S-HDAD-007 34
+A S-HDAD-008 32
+A S-HDAD-009 19
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 30
+A S-HDAD-008 5
+A S-HDAD-009 45
+A S-TEMP-008 3.5541587
+A S-TEMP-007 41.963013
+A S-TEMP-009 2.2051
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 61
+A S-HDAD-009 59
+A S-HDAD-008 56
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 3.811256
+A S-TEMP-007 39.488075
+A S-TEMP-009 48.02635
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 60
+A S-HDAD-009 24
+A S-HDAD-008 65
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 39.739006
+A S-TEMP-007 45.11589
+A S-TEMP-009 4.504503
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 42
+A S-HDAD-008 10
+A S-HDAD-009 56
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 3.3032036
+A S-TEMP-008 6.749089
+A S-TEMP-009 7.1259556
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 31
+A S-HDAD-008 41
+A S-HDAD-009 34
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 36.610065
+A S-TEMP-008 9.265734
+A S-TEMP-009 39.074963
+A S-HDAD-007 23
+A S-HDAD-009 42
+A S-HDAD-008 18
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 7.5895157
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 22
+A S-HDAD-009 46
+A S-HDAD-008 27
+A S-TEMP-007 10.646028
+A S-TEMP-008 1.0126014
+A S-TEMP-009 6.9797735
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 1
+A S-HDAD-008 1
+A S-HDAD-009 63
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 42.879288
+A S-TEMP-007 2.3607597
+A S-TEMP-009 0.98495317
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 35
+A S-HDAD-008 2
+A S-HDAD-009 17
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-008 42.124012
+A S-TEMP-007 30.923872
+A S-TEMP-009 1.9528319
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 0
+A S-HDAD-008 64
+A S-HDAD-009 2
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 7.616158
+A S-TEMP-007 1.9057443
+A S-TEMP-009 9.990422
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-007 2
+A S-HDAD-008 11
+A S-HDAD-009 9
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 49.97473
+A S-TEMP-007 0.11912984
+A S-TEMP-009 47.48355
+A S-HDAD-007 51
+A S-HDAD-008 66
+A S-HDAD-009 15
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 3.7481983
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 8
+A S-HDAD-008 14
+A S-HDAD-009 37
+A S-TEMP-007 38.944935
+A S-TEMP-008 7.0128455
+A S-TEMP-009 47.56569
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HDAD-007 20
+A S-HDAD-008 62
+A S-HDAD-009 64
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 4.559074
+A S-TEMP-008 31.1666
+A S-TEMP-009 4.947019
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 36
+A S-HDAD-007 53
+A S-HDAD-009 50
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 1.8053806
+A S-TEMP-008 38.933693
+A S-TEMP-009 2.8503041
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 18
+A S-HDAD-007 61
+A S-HDAD-008 52
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 5.0232487
+A S-TEMP-007 47.637947
+A S-TEMP-009 6.8440013
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-009 27
+A S-HDAD-007 69
+A S-HDAD-008 60
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 34.328106
+A S-TEMP-008 0.7452589
+A S-TEMP-009 47.83348
+A S-HDAD-007 38
+A S-HDAD-008 14
+A S-HDAD-009 21
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-009 56
+A S-HDAD-008 27
+A S-HDAD-007 55
+A S-TEMP-008 3.4666805
+A S-TEMP-007 9.122775
+A S-TEMP-009 8.870864
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-007 46
+A S-HDAD-008 63
+A S-HDAD-009 16
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 41.809784
+A S-TEMP-007 44.43432
+A S-TEMP-009 36.094345
+A Promedio temperatura fuera de los rangos establecidos...! 8.227328
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 67
+A S-HDAD-008 1
+A S-HDAD-009 59
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 36.499287
+A S-TEMP-007 35.028893
+A S-TEMP-009 35.8562
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 39
+A S-HDAD-008 17
+A S-HDAD-009 6
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 49.527584
+A S-TEMP-008 47.54778
+A S-TEMP-009 0.77884465
+A S-HDAD-007 59
+A S-HDAD-008 24
+A S-HDAD-009 46
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 7.632597
+A S-TEMP-007 9.88072
+A S-TEMP-009 5.0423236
+A S-HDAD-008 58
+A S-HDAD-007 26
+A S-HDAD-009 61
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 24
+A S-HDAD-007 46
+A S-HDAD-009 58
+A S-TEMP-008 8.404098
+A S-TEMP-007 29.712034
+A S-TEMP-009 34.464535
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-007 58
+A S-HDAD-008 31
+A S-HDAD-009 48
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 47.16853
+A S-TEMP-008 48.10358
+A S-TEMP-009 46.62714
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 63
+A S-HDAD-007 30
+A S-HDAD-009 27
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 29.480015
+A S-TEMP-007 49.092033
+A S-TEMP-009 7.1709065
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 64
+A S-HDAD-008 30
+A S-HDAD-009 55
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 39.78766
+A S-TEMP-007 48.109795
+A S-TEMP-009 6.8262253
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-007 38
+A S-HDAD-008 5
+A S-HDAD-009 27
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 46.9302
+A S-TEMP-008 4.782283
+A S-TEMP-009 42.470905
+A S-HDAD-007 20
+A S-HDAD-008 12
+A S-HDAD-009 69
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 5
+A S-HDAD-008 64
+A S-HDAD-009 63
+A S-TEMP-008 38.05013
+A S-TEMP-007 2.007434
+A S-TEMP-009 29.89433
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-008 50
+A S-HDAD-007 4
+A S-HDAD-009 8
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 2.7460241
+A S-TEMP-008 39.757553
+A S-TEMP-009 42.218803
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 36
+A S-HDAD-007 40
+A S-HDAD-009 24
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 37.7339
+A S-TEMP-008 48.88296
+A S-TEMP-009 5.4979663
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 25
+A S-HDAD-007 0
+A S-HDAD-009 14
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 1.6127961
+A S-TEMP-008 0.41545856
+A S-TEMP-009 10.700029
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-008 49
+A S-HDAD-007 53
+A S-HDAD-009 26
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 1.5692865
+A S-TEMP-007 0.29264987
+A S-TEMP-009 1.3660707
+A S-HDAD-008 41
+A S-HDAD-007 59
+A S-HDAD-009 12
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 5.2822695
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 45
+A S-HDAD-007 28
+A S-HDAD-009 30
+A S-TEMP-008 49.19989
+A S-TEMP-007 9.23651
+A S-TEMP-009 34.31826
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HDAD-008 20
+A S-HDAD-009 34
+A S-HDAD-007 68
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 35.10017
+A S-TEMP-008 5.936143
+A S-TEMP-009 43.78231
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 54
+A S-HDAD-009 5
+A S-HDAD-007 21
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-TEMP-007 35.122044
+A S-TEMP-008 31.523184
+A S-TEMP-009 3.8288465
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 2
+A S-HDAD-009 37
+A S-HDAD-007 34
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 33.068607
+A S-TEMP-008 39.99662
+A S-TEMP-009 33.28677
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-008 38
+A S-HDAD-009 63
+A S-HDAD-007 53
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 2.180693
+A S-TEMP-008 8.648135
+A S-TEMP-009 42.83816
+A S-HDAD-008 33
+A S-HDAD-007 9
+A S-HDAD-009 51
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 59
+A S-HDAD-007 54
+A S-HDAD-009 26
+A S-TEMP-008 44.126705
+A S-TEMP-007 0.64824617
+A S-TEMP-009 30.741568
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 53
+A S-HUMO-001 Encendido el actuador!
+A S-HDAD-009 18
+A S-HDAD-007 63
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 48.637478
+A S-TEMP-008 37.5411
+A S-TEMP-009 2.3704686
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 63
+A S-HDAD-009 7
+A S-HDAD-007 6
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 3.556193
+A S-TEMP-007 8.749238
+A S-TEMP-008 41.681732
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 33
+A S-HDAD-009 38
+A S-HDAD-007 56
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-009 32.488415
+A S-TEMP-007 34.84378
+A S-TEMP-008 29.607592
+A S-HDAD-008 25
+A S-HDAD-009 30
+A S-HDAD-007 47
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-TEMP-007 47.447517
+A S-TEMP-009 8.087338
+A S-TEMP-008 8.716338
+A S-HDAD-008 19
+A S-HDAD-009 12
+A S-HDAD-007 32
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 35
+A S-HDAD-007 67
+A S-HDAD-009 63
+A S-TEMP-008 40.490852
+A S-TEMP-009 31.850952
+A S-TEMP-007 3.7241912
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 2
+A S-HDAD-009 49
+A S-HDAD-007 62
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 4.2570567
+A S-TEMP-009 34.105824
+A S-TEMP-008 46.028477
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-008 26
+A S-HDAD-009 17
+A S-HDAD-007 48
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 34.243484
+A S-TEMP-008 33.352833
+A S-TEMP-009 6.5012627
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 68
+A S-HDAD-009 0
+A S-HDAD-007 55
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 45.60479
+A S-TEMP-009 44.170116
+A S-TEMP-008 10.636571
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 33
+A S-HDAD-007 64
+A S-HDAD-009 66
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-TEMP-009 7.4419985
+A S-TEMP-008 45.694828
+A S-TEMP-007 46.52784
+A S-HDAD-008 50
+A S-HDAD-007 63
+A S-HDAD-009 9
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 15
+A S-HDAD-007 7
+A S-HDAD-009 46
+A S-TEMP-007 5.961337
+A S-TEMP-008 31.607044
+A S-TEMP-009 8.567944
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 32
+A S-HDAD-007 35
+A S-HDAD-009 44
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 3.8186517
+A S-TEMP-007 42.16572
+A S-TEMP-008 33.314064
+A Promedio temperatura fuera de los rangos establecidos...! 10.266093
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 18
+A S-HDAD-007 10
+A S-HDAD-009 43
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 44.501347
+A S-TEMP-007 6.6770086
+A S-TEMP-008 33.51671
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 36
+A S-HDAD-007 61
+A S-HDAD-009 22
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 0.10507399
+A S-TEMP-009 44.499737
+A S-TEMP-007 43.980286
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-007 34
+A S-HDAD-008 45
+A S-HDAD-009 61
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 32.27033
+A S-TEMP-007 46.348854
+A S-TEMP-009 36.95597
+A S-HDAD-009 16
+A S-HDAD-008 48
+A S-HDAD-007 57
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 3
+A S-HDAD-008 14
+A S-HDAD-009 51
+A S-TEMP-007 2.581006
+A S-TEMP-008 43.600708
+A S-TEMP-009 2.5763671
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 41
+A S-HDAD-009 42
+A S-HDAD-007 3
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 8.127142
+A S-TEMP-008 43.6883
+A S-TEMP-007 7.480975
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 16
+A S-HDAD-008 18
+A S-HDAD-009 11
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 0.5025697
+A S-TEMP-008 0.4586063
+A S-TEMP-009 44.249294
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-007 4
+A S-HDAD-009 49
+A S-HDAD-008 68
+A Promedio temperatura fuera de los rangos establecidos...! 9.118502
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 8.828585
+A S-TEMP-009 8.34089
+A S-TEMP-007 0.17456317
+A S-HDAD-009 38
+A S-HDAD-007 34
+A S-HDAD-008 51
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 2.0609362
+A S-TEMP-007 0.59644777
+A S-TEMP-009 3.3667598
+A S-HDAD-007 24
+A S-HDAD-009 53
+A S-HDAD-008 40
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 21
+A S-HDAD-009 8
+A S-HDAD-008 24
+A S-TEMP-009 4.722097
+A S-TEMP-007 41.23604
+A S-TEMP-008 41.90102
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-007 52
+A S-HDAD-008 69
+A S-HDAD-009 32
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 10.438795
+A S-TEMP-008 1.2698369
+A S-TEMP-007 0.9076427
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 36
+A S-HDAD-008 48
+A S-HDAD-007 42
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 10.140001
+A S-TEMP-009 41.66104
+A S-TEMP-007 35.845955
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 17
+A S-HDAD-009 5
+A S-HDAD-008 66
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 9.247538
+A S-TEMP-007 41.488167
+A S-TEMP-008 41.004932
+A S-HDAD-008 55
+A S-HDAD-007 54
+A S-HDAD-009 9
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 34.623966
+A S-TEMP-009 2.8912876
+A S-TEMP-008 6.522008
+A S-HDAD-007 59
+A S-HDAD-008 55
+A S-HDAD-009 21
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 67
+A S-HDAD-009 27
+A S-HDAD-008 63
+A S-TEMP-007 49.86335
+A S-TEMP-008 2.8941672
+A S-TEMP-009 8.84333
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-007 14
+A S-HDAD-009 50
+A S-HDAD-008 14
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 31.56839
+A S-TEMP-009 2.9470854
+A S-TEMP-007 37.829723
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-008 51
+A S-HDAD-007 63
+A S-HDAD-009 17
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 48.86402
+A S-TEMP-007 31.667374
+A S-TEMP-009 1.0988038
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-008 65
+A S-HDAD-009 52
+A S-HDAD-007 7
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 31.067396
+A S-TEMP-008 31.95508
+A S-TEMP-009 2.9723942
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 53
+A S-HDAD-009 1
+A S-HDAD-007 43
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 31.679956
+A S-TEMP-007 8.872758
+A S-TEMP-008 5.758611
+A S-HDAD-008 14
+A S-HDAD-009 69
+A S-HDAD-007 53
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 24
+A S-HDAD-008 27
+A S-HDAD-007 40
+A S-TEMP-007 2.5397398
+A S-TEMP-008 4.1280265
+A S-TEMP-009 29.874094
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-009 11
+A S-HDAD-008 16
+A S-HDAD-007 47
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-007 37.722717
+A S-TEMP-008 37.31439
+A S-TEMP-009 42.146797
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-009 14
+A S-HDAD-007 65
+A S-HDAD-008 40
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 10.031188
+A S-TEMP-008 33.442
+A S-TEMP-009 43.848263
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 66
+A S-HDAD-008 36
+A S-HDAD-007 32
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 48.692757
+A S-TEMP-009 37.242706
+A S-TEMP-008 10.634165
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-009 37
+A S-HDAD-008 43
+A S-HDAD-007 40
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-008 7.182585
+A S-TEMP-009 10.986546
+A S-TEMP-007 10.355848
+A S-HDAD-009 27
+A S-HDAD-008 56
+A S-HDAD-007 38
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-009 39
+A S-HDAD-008 43
+A S-HDAD-007 15
+A S-TEMP-008 10.8775625
+A S-TEMP-007 45.166836
+A S-TEMP-009 2.0573275
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 57
+A S-HDAD-008 35
+A S-HDAD-007 51
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-008 37.347916
+A S-TEMP-009 34.548664
+A S-TEMP-007 7.485798
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 64
+A S-HDAD-007 68
+A S-HDAD-009 38
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 3.1586738
+A S-TEMP-008 8.991741
+A S-TEMP-007 9.901927
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-008 29
+A S-HDAD-009 27
+A S-HDAD-007 58
+A Promedio temperatura fuera de los rangos establecidos...! 9.630682
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 34.88316
+A S-TEMP-007 1.8186489
+A S-TEMP-009 10.151754
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 47
+A S-HDAD-007 52
+A S-HDAD-009 64
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 30.301046
+A S-TEMP-009 5.8838654
+A S-TEMP-007 0.6452374
+A S-HDAD-009 45
+A S-HDAD-008 54
+A S-HDAD-007 47
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 16
+A S-HDAD-009 41
+A S-HDAD-008 27
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 38.391335
+A S-TEMP-008 2.8605304
+A S-TEMP-009 47.066296
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 57
+A S-HDAD-008 24
+A S-HDAD-009 28
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 1.6149421
+A S-TEMP-007 9.30076
+A S-TEMP-008 36.777386
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 56
+A S-HDAD-009 53
+A S-HDAD-008 56
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 34.6413
+A S-TEMP-008 30.015238
+A S-TEMP-009 10.722246
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 7
+A S-HDAD-008 48
+A S-HDAD-009 41
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 10.62445
+A S-TEMP-009 31.87606
+A S-TEMP-008 44.728905
+A S-HDAD-007 45
+A S-HDAD-008 11
+A S-HDAD-009 50
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 49.314102
+A S-TEMP-008 44.744797
+A S-TEMP-009 2.9181652
+A S-HDAD-007 37
+A S-HDAD-008 63
+A S-HDAD-009 57
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 5
+A S-HDAD-008 32
+A S-HDAD-009 37
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 35.94158
+A S-TEMP-009 35.178143
+A S-TEMP-008 6.259137
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-007 46
+A S-HDAD-009 57
+A S-HDAD-008 10
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 46.09564
+A S-TEMP-009 37.750866
+A S-TEMP-008 5.9274235
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 25
+A S-HDAD-009 40
+A S-HDAD-008 52
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 3.8241754
+A S-TEMP-009 2.2873397
+A S-TEMP-008 40.021797
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 14
+A S-HDAD-009 18
+A S-HDAD-008 45
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 43.33246
+A S-TEMP-008 38.709003
+A S-TEMP-009 43.608643
+A S-HDAD-007 58
+A S-HDAD-009 43
+A S-HDAD-008 64
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 7.4247975
+A S-TEMP-008 7.170561
+A S-TEMP-009 0.9051316
+A S-HDAD-007 24
+A S-HDAD-008 9
+A S-HDAD-009 43
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-007 9
+A S-HDAD-009 50
+A S-HDAD-008 9
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 38.26547
+A S-TEMP-007 44.434776
+A S-TEMP-009 7.998861
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 36
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-009 59
+A S-HDAD-008 24
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-007 5.099878
+A S-TEMP-008 36.272152
+A S-TEMP-009 32.356037
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 14
+A S-HDAD-009 24
+A S-HDAD-008 20
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-008 7.0175734
+A S-TEMP-007 43.950058
+A S-TEMP-009 2.546387
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 4
+A S-HDAD-009 55
+A S-HDAD-008 36
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 7.5456867
+A S-TEMP-008 37.56445
+A S-TEMP-009 44.638935
+A S-HDAD-007 49
+A S-HUMO-004 Encendido el actuador!
+A S-HDAD-008 19
+A S-HDAD-009 51
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 44.89896
+A S-TEMP-008 39.57363
+A S-TEMP-009 32.502846
+A S-HDAD-007 69
+A S-HDAD-009 36
+A S-HDAD-008 40
+A S-HUMO-004 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.636118
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 52
+A S-HDAD-009 33
+A S-HDAD-008 64
+A S-TEMP-007 42.494736
+A S-TEMP-008 9.597159
+A S-TEMP-009 40.671673
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 31
+A S-HDAD-008 5
+A S-HDAD-009 69
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 1.9413416
+A S-TEMP-008 5.9768267
+A S-TEMP-009 4.554399
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 8
+A S-HDAD-009 33
+A S-HDAD-008 50
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 4.846832
+A S-TEMP-008 7.469146
+A S-TEMP-009 8.306989
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 18
+A S-HDAD-009 41
+A S-HDAD-008 36
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 5.479731
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 43.201332
+A S-TEMP-008 8.034148
+A S-TEMP-009 46.724873
+A S-HDAD-007 30
+A S-HDAD-008 65
+A S-HDAD-009 44
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 44.954613
+A S-TEMP-008 7.9545145
+A S-TEMP-009 41.661404
+A S-HDAD-007 46
+A S-HDAD-008 64
+A S-HDAD-009 27
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 63
+A S-HDAD-008 22
+A S-HDAD-009 59
+A S-TEMP-007 2.9262764
+A S-TEMP-008 46.513268
+A S-TEMP-009 10.900344
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 1
+A S-HDAD-009 32
+A S-HDAD-008 64
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 6.1882024
+A S-TEMP-008 34.90497
+A S-TEMP-009 33.04135
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 24
+A S-HDAD-008 29
+A S-HDAD-009 53
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 31.392954
+A S-TEMP-008 33.76213
+A S-TEMP-009 6.398528
+A S-HDAD-007 39
+A S-HDAD-008 14
+A S-HDAD-009 11
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 37.880814
+A S-TEMP-008 42.387367
+A S-TEMP-009 0.33617985
+A S-HDAD-007 26
+A S-HDAD-008 41
+A S-HDAD-009 18
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 34.531704
+A S-TEMP-008 3.542753
+A S-TEMP-009 42.171432
+A S-HDAD-007 29
+A S-HDAD-009 18
+A S-HDAD-008 15
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HDAD-007 37
+A S-HDAD-008 65
+A S-HDAD-009 19
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 39.317307
+A S-TEMP-008 44.88077
+A S-TEMP-009 30.168089
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 43
+A S-HDAD-009 35
+A S-HDAD-008 40
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 34.217953
+A S-TEMP-009 34.669937
+A S-TEMP-008 30.251846
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 52
+A S-HDAD-009 47
+A S-HDAD-008 63
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 5.135327
+A S-TEMP-009 36.58455
+A S-TEMP-008 39.011856
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 8
+A S-HDAD-009 36
+A S-HDAD-008 8
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 9.666467
+A S-TEMP-008 40.12523
+A S-TEMP-009 33.424835
+A S-HDAD-007 62
+A S-HDAD-008 52
+A S-HDAD-009 56
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 1.5618887
+A S-TEMP-009 2.3104234
+A S-TEMP-008 1.3454498
+A S-HDAD-007 48
+A S-HDAD-009 52
+A S-HDAD-008 41
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 18
+A S-HDAD-009 53
+A S-HDAD-008 37
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 6.6844153
+A S-TEMP-008 41.593086
+A S-TEMP-009 10.333602
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 64
+A S-HDAD-008 29
+A S-HDAD-009 69
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 47.070343
+A S-TEMP-009 8.602197
+A S-TEMP-008 0.6724941
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 4
+A S-HDAD-009 31
+A S-HDAD-008 47
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 7.5539064
+A S-TEMP-009 9.885597
+A S-TEMP-008 42.35459
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 18
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-008 22
+A S-HDAD-009 60
+A S-HUMO-0010 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 10.937395
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 31.940216
+A S-TEMP-009 37.417034
+A S-TEMP-008 5.0569525
+A S-HDAD-007 42
+A S-HDAD-008 41
+A S-HDAD-009 22
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-TEMP-007 3.7158186
+A S-TEMP-009 0.7251055
+A S-TEMP-008 6.068407
+A S-HDAD-007 22
+A S-HDAD-009 29
+A S-HDAD-008 41
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 12
+A S-HDAD-009 20
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-008 26
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 7.494467
+A S-TEMP-007 4.0173383
+A S-TEMP-008 6.9330387
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 56
+A S-HDAD-008 39
+A S-HDAD-009 58
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 6.1836867
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 0.28376776
+A S-TEMP-007 36.161777
+A S-TEMP-008 40.073746
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HDAD-007 43
+A S-HDAD-009 10
+A S-HDAD-008 39
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 45.318855
+A S-TEMP-009 9.604188
+A S-TEMP-008 2.8503854
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-007 66
+A S-HDAD-009 64
+A S-HDAD-008 63
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 9.5022745
+A S-TEMP-007 8.05361
+A S-TEMP-008 49.45253
+A S-HDAD-007 56
+A S-HDAD-009 27
+A S-HDAD-008 14
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 43.143898
+A S-TEMP-007 7.0692687
+A S-TEMP-008 35.186718
+A S-HDAD-007 0
+A S-HDAD-009 36
+A S-HDAD-008 11
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HDAD-007 42
+A S-HDAD-008 7
+A S-HDAD-009 20
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 44.85616
+A S-TEMP-007 6.8477383
+A S-TEMP-008 9.401503
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 53
+A S-HDAD-008 12
+A S-HDAD-009 19
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 6.4962597
+A S-TEMP-007 36.894547
+A S-TEMP-008 10.947922
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 37
+A S-HDAD-008 3
+A S-HDAD-009 52
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 39.54577
+A S-TEMP-007 2.4322886
+A S-TEMP-008 1.7280741
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 38
+A S-HDAD-009 10
+A S-HDAD-008 57
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 37.509045
+A S-TEMP-009 7.5691347
+A S-TEMP-008 0.0533818
+A S-HDAD-007 54
+A S-HDAD-009 50
+A S-HDAD-008 23
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-009 33.309917
+A S-TEMP-007 39.43995
+A S-TEMP-008 4.1278048
+A S-HDAD-007 14
+A S-HDAD-009 22
+A S-HDAD-008 58
+A Promedio temperatura fuera de los rangos establecidos...! 7.2705207
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-007 33
+A S-HDAD-009 30
+A S-HDAD-008 14
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 0.73248094
+A S-TEMP-009 30.413862
+A S-TEMP-008 42.47821
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 61
+A S-HDAD-009 34
+A S-HDAD-008 40
+A S-HUMO-001 Encendido el actuador!
+A Promedio temperatura fuera de los rangos establecidos...! 9.722669
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 7.1390085
+A S-TEMP-007 32.965744
+A S-TEMP-008 33.27697
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 2
+A S-HDAD-009 40
+A S-HDAD-008 21
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 47.314415
+A S-TEMP-007 39.756927
+A S-TEMP-008 2.733245
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-007 36
+A S-HDAD-009 29
+A S-HDAD-008 45
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 6.9153237
+A S-TEMP-009 40.6902
+A S-TEMP-008 5.263979
+A S-HDAD-007 14
+A S-HDAD-009 68
+A S-HDAD-008 11
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-TEMP-007 5.4174585
+A S-TEMP-009 45.56494
+A S-TEMP-008 46.746838
+A S-HDAD-007 23
+A S-HDAD-008 44
+A S-HDAD-009 12
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 7
+A S-HDAD-009 39
+A S-HDAD-008 42
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 32.152588
+A S-TEMP-007 9.5968075
+A S-TEMP-008 9.786106
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 6
+A S-HDAD-008 68
+A S-HDAD-009 48
+A Promedio temperatura fuera de los rangos establecidos...! 8.871902
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 38.022034
+A S-TEMP-009 8.102409
+A S-TEMP-008 48.299118
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-007 2
+A S-HDAD-008 33
+A S-HDAD-009 46
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 31.596436
+A S-TEMP-009 10.20012
+A S-TEMP-008 9.346524
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 64
+A S-HDAD-009 30
+A S-HDAD-008 25
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 44.860615
+A S-TEMP-007 43.98784
+A S-TEMP-008 44.51058
+A S-HDAD-007 21
+A S-HDAD-009 63
+A S-HDAD-008 29
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 9.275741
+A S-TEMP-009 8.676542
+A S-TEMP-008 4.573127
+A S-HDAD-007 67
+A S-HDAD-009 5
+A S-HDAD-008 51
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HDAD-007 47
+A S-HDAD-008 22
+A S-HDAD-009 30
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 5.708225
+A S-TEMP-009 4.6690836
+A S-TEMP-008 36.256027
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-009 51
+A S-HDAD-007 62
+A S-HDAD-008 23
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 2.6946611
+A S-TEMP-009 3.0638366
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-008 37.06823
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 62
+A S-HDAD-009 69
+A S-HDAD-007 45
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 3.140132
+A S-TEMP-008 9.109013
+A S-TEMP-007 37.279785
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HDAD-009 40
+A S-HDAD-008 41
+A S-HDAD-007 22
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-TEMP-009 39.226776
+A S-TEMP-008 0.41436034
+A S-TEMP-007 33.365185
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 12
+A S-HDAD-009 25
+A S-HDAD-007 9
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 10.640001
+A S-TEMP-008 46.21402
+A S-TEMP-007 30.076992
+A S-HDAD-008 68
+A S-HDAD-009 66
+A S-HDAD-007 20
+A Promedio temperatura fuera de los rangos establecidos...! 9.102781
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HDAD-007 42
+A S-HDAD-008 1
+A S-HDAD-009 67
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-007 49.512493
+A S-TEMP-008 8.418276
+A S-TEMP-009 8.151621
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HDAD-008 61
+A S-HDAD-009 5
+A S-HDAD-007 17
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-007 42.148674
+A S-TEMP-008 4.4793353
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-009 10.340926
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HDAD-007 38
+A S-HDAD-008 46
+A S-HDAD-009 52
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-TEMP-007 38.485237
+A S-TEMP-008 49.691128
+A S-TEMP-009 33.718933
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 44
+A S-HDAD-008 63
+A S-HDAD-007 16
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-008 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-TEMP-009 39.25183
+A S-TEMP-007 4.723487
+A S-TEMP-008 39.515144
+A S-HDAD-008 68
+A S-HDAD-009 49
+A S-HDAD-007 36
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-TEMP-009 47.156525
+A S-TEMP-008 3.4741056
+A S-TEMP-007 33.859028
+A S-HUMO-009 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HDAD-008 69
+A S-HDAD-009 15
+A S-HDAD-007 47
+A S-HUMO-004 Encendido el actuador!
+A S-HUMO-003 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-0010 Encendido el actuador!
+A S-HUMO-001 Encendido el actuador!
+A S-HUMO-002 Encendido el actuador!
+A S-HUMO-005 Encendido el actuador!
+A S-HDAD-009 21
+A S-HDAD-008 4
+A S-HDAD-007 3
+A S-HUMO-006 Encendido el actuador!
+A S-HUMO-007 Encendido el actuador!
+A S-TEMP-007 3.9833565
+A S-TEMP-008 2.8056457
+A S-TEMP-009 35.97533
+A S-HUMO-009 Encendido el actuador!

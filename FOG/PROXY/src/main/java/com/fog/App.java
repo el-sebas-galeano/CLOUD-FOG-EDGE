@@ -15,7 +15,7 @@ public class App {
             System.out.println("El unico argumento valido es la direccion IP.");
             System.exit(1);
         }
-        ControllerProxy controllerProxy =  new ControllerProxy("tcp://" + args[0] + ":" + PUERTO, "tcp://" + args[0] + ":" + PUERTO_LOCAL_SERVER);
+        ControllerProxy controllerProxy =  new ControllerProxy("tcp://*" + ":" + PUERTO, "tcp://" + args[0] + ":" + PUERTO_LOCAL_SERVER);
         new Thread(controllerProxy).start();
         ControllerMonitor controllerMonitor = new ControllerMonitor();
         new Thread(controllerMonitor).start();
