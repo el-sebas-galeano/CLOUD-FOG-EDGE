@@ -20,6 +20,7 @@ public class ControllerProxy implements Runnable{
         try (ZContext context = new ZContext()) {
             Socket loadBalancerSocket = context.createSocket(SocketType.PULL);
             Socket socketCloud = context.createSocket(SocketType.REQ);
+            System.out.println(url_lb);
             loadBalancerSocket.bind(url_lb);
             socketCloud.connect("tcp://localhost:5230");
 
