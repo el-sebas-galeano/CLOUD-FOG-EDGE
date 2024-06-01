@@ -19,7 +19,7 @@ public class ControllerSensorHumedad extends ControllerSensor {
         this.tipo = tipo;
         sensorInfo = new SensorHumedad(idSensor, localDateTime);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        socketPushFog.connect("tcp://localhost:5120");
+        socketPushFog.connect("tcp://10.43.100.126:5120");
     }
 
     @Override

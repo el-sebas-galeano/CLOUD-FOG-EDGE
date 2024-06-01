@@ -5,8 +5,8 @@ import org.zeromq.ZContext;
 import org.zeromq.ZMQ.Socket;
 
 public class ControllerLoadBalancer implements Runnable{
-    private String urlPull= "localhost";
-    private String urlPush= "localhost";
+    private String urlPull= "*";
+    private String urlPush= "10.43.101.36";
     private String puertoPull =Integer.toString(5120) ;
     private String puertoPush = Integer.toString(5200);
     private ZContext context;

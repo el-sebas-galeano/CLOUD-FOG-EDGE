@@ -22,7 +22,7 @@ public class ControllerProxy implements Runnable{
             Socket socketCloud = context.createSocket(SocketType.REQ);
             System.out.println(url_lb);
             loadBalancerSocket.bind(url_lb);
-            socketCloud.connect("tcp://localhost:5230");
+            socketCloud.connect("tcp://10.43.100.130:5230");
 
             Socket localServerSocket = context.createSocket(SocketType.PUSH);
             localServerSocket.connect(url_ls);

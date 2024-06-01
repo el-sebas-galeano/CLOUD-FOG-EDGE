@@ -22,7 +22,7 @@ public class ControllerSensorTemperatura extends ControllerSensor{
         this.tipo = tipo;
         sensorInfo = new SensorTemperatura(idSensor, localDateTime);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        this.socketPushFog.connect("tcp://localhost:5120");
+        this.socketPushFog.connect("tcp://10.43.100.126:5120");
     }
 
     @Override
