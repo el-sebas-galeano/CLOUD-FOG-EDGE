@@ -11,6 +11,7 @@ import com.models.Sensor;
 import com.models.SensorHumedad;
 import com.models.SensorHumo;
 import com.models.SensorTemperatura;
+import com.models.direcciones.Direcciones;
 
 
 public class ControllerDatos implements Runnable {
@@ -24,7 +25,7 @@ public class ControllerDatos implements Runnable {
     public void run() {
         try(ZContext context = new ZContext()){
             Socket socketProxy = context.createSocket(SocketType.PULL);
-            socketProxy.bind("tcp://*:5220");
+            socketProxy.bind("tcp://*:"+Direcciones.PUERTO_PROXY_LSERVER);
 
             while (true) {
                 String data = socketProxy.recvStr();

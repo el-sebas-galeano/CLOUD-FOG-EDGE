@@ -36,7 +36,7 @@ public class SensorManager {
         this.socketLoadBalancer = context.createSocket(SocketType.PUSH);
         this.socketQuality =  context.createSocket(SocketType.REQ);
         this.socketLoadBalancer.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
-        this.socketQuality.connect("tcp://localhost:"+Direcciones.PUERTO_LSERVER_FOGCALIDAD);
+        this.socketQuality.connect("tcp://"+Direcciones.DIRECCION_IP_FOG_CALIDAD+":"+Direcciones.PUERTO_LSERVER_FOGCALIDAD);
 
         scheduler.scheduleAtFixedRate(this::procesarMedicionesTemperatura, 0, 10, TimeUnit.SECONDS);
         scheduler.scheduleAtFixedRate(this::procesarMedicionesHumedad, 0, 5, TimeUnit.SECONDS);

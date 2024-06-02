@@ -24,7 +24,7 @@ public class ControllerProxy implements Runnable{
             Socket socketCloud = context.createSocket(SocketType.REQ);
             System.out.println(url_lb);
             loadBalancerSocket.bind(url_lb);
-            socketCloud.connect("tcp://localhost:"+Direcciones.PUERTO_PROXY_CLOUD);
+            socketCloud.connect("tcp://"+Direcciones.DIRECCION_IP_CLOUD+":"+Direcciones.PUERTO_PROXY_CLOUD);
 
             Socket localServerSocket = context.createSocket(SocketType.PUSH);
             localServerSocket.connect(url_ls);

@@ -11,7 +11,7 @@ public class ControllerMonitor implements Runnable {
     public void run() {
         try(ZContext context = new ZContext()){
             Socket socketMonitor = context.createSocket(SocketType.REP);
-            socketMonitor.bind("tcp://localhost:5400"); 
+            socketMonitor.bind("tcp://*:5400"); 
             while(!Thread.currentThread().isInterrupted()){
                 String message = socketMonitor.recvStr();
                 if(message!=null&& message.startsWith("Ok")){

@@ -20,7 +20,7 @@ public class ControllerHeartBeat implements Runnable {
         try (ZContext context = new ZContext()) {
             Socket socketBeat = createSocket(context);
             socketNotifiacion = context.createSocket(SocketType.REQ);
-            socketNotifiacion.connect("tcp://localhost:"+Direcciones.PUERTO_MONITOR_PROXY_NOTIFICACION);
+            socketNotifiacion.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_MONITOR_PROXY_NOTIFICACION);
             String mensaje = "Ok";
             int retriesLeft = MAX_RETRIES;
 
@@ -59,7 +59,7 @@ public class ControllerHeartBeat implements Runnable {
 
     private Socket createSocket(ZContext context) {
         Socket socket = context.createSocket(SocketType.REQ);
-        socket.connect("tcp://localhost:"+Direcciones.PUERTO_MONITOR_PROXY_BEAT);
+        socket.connect("tcp://"+Direcciones.DIRECCION_IP_PROXYA+":"+Direcciones.PUERTO_MONITOR_PROXY_BEAT);
         socket.setReceiveTimeOut(5000);
         return socket;
     }
@@ -71,6 +71,6 @@ public class ControllerHeartBeat implements Runnable {
 
     private void failure() {
         System.out.println("Máximo número de reintentos alcanzado. Fallo detectado.");
-        socketNotifiacion.send("failure"+ " tcp://localhost:5240");
+        socketNotifiacion.send("failure"+ " tcp://"+Direcciones.DIRECCION_IP_PROXYB+":5240");
     }
 }

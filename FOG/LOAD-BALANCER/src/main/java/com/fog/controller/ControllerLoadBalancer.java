@@ -8,7 +8,7 @@ import com.models.direcciones.Direcciones;
 
 public class ControllerLoadBalancer implements Runnable{
     private String urlPull= Direcciones.DIRECCION_IP_LOAD_BALANCER;
-    private String urlPush= "localhost";
+    private String urlPush= Direcciones.DIRECCION_IP_PROXYA;
     private String puertoPull = Direcciones.PUERTO_LOAD_BALANCER_PULL ;
     private String puertoPush = Direcciones.PUERTO_PROXY_BALANCER_PUSH;
     private ZContext context;
@@ -46,7 +46,7 @@ public class ControllerLoadBalancer implements Runnable{
     private void startfailureListener(){
         new Thread(()-> {
             try(Socket socketNotificacion = context.createSocket(SocketType.REP)){
-                socketNotificacion.bind("tcp://localhost:5410");
+                socketNotificacion.bind("tcp://*:"+Direcciones.PUERTO_MONITOR_PROXY_NOTIFICACION);
                 while (true) {
                     String mensaje= socketNotificacion.recvStr();
                     if(mensaje.startsWith("failure")){
