@@ -14,7 +14,6 @@ public class ControllerLoadBalancer implements Runnable{
     private ZContext context;
     private Socket socketPull;
     private Socket socketPush;
-    private Socket socketNotificacion;
     public ControllerLoadBalancer() {
         this.context = new ZContext();
         socketPull = crearPullSocket("tcp://"+urlPull+":"+ puertoPull);
