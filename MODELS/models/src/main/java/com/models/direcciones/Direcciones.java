@@ -8,10 +8,10 @@ public class Direcciones {
     public static String DIRECCION_IP_MONITOR="10.43.100.126";
     public static String DIRECCION_IP_LOAD_BALANCER="10.43.100.126";
     public static String DIRECCION_IP_PROXYA="10.43.100.126";
-    public static String DIRECCION_IP_PROXYB="";
     public static String DIRECCION_IP_LOCAL_SERVER="10.43.100.126";
     public static String DIRECCION_IP_FOG_CALIDAD="10.43.100.126";
 
+    public static String DIRECCION_IP_PROXYB="10.43.100.130";
     public static String DIRECCION_IP_CLOUD="10.43.100.130";
     public static String DIRECCION_IP_CLOUD_CALIDAD="10.43.100.130";
     

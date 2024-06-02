@@ -14,11 +14,12 @@ public class ControllerHeartBeat implements Runnable {
 
     private static final int MAX_RETRIES = 3; // Número máximo de reintentos
     private Socket socketNotifiacion;
-
+    private String direccionActual;
     @Override
     public void run() {
         try (ZContext context = new ZContext()) {
-            Socket socketBeat = createSocket(context);
+            direccionActual= Direcciones.DIRECCION_IP_PROXYA;
+            Socket socketBeat = createSocket(context,this.direccionActual );
             socketNotifiacion = context.createSocket(SocketType.REQ);
             socketNotifiacion.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_MONITOR_PROXY_NOTIFICACION);
             String mensaje = "Ok";
@@ -37,6 +38,7 @@ public class ControllerHeartBeat implements Runnable {
                         if (retriesLeft <= 0) {
                             failure();
                             retriesLeft = MAX_RETRIES; // Resetear el contador después de manejar el fallo
+                            socketBeat = recreateSocket(context, socketBeat);
                         }
                     }
                 } catch (ZMQException e) {
@@ -57,20 +59,24 @@ public class ControllerHeartBeat implements Runnable {
         }
     }
 
-    private Socket createSocket(ZContext context) {
+    private Socket createSocket(ZContext context, String direccionIP) {
         Socket socket = context.createSocket(SocketType.REQ);
-        socket.connect("tcp://"+Direcciones.DIRECCION_IP_PROXYA+":"+Direcciones.PUERTO_MONITOR_PROXY_BEAT);
+        this.direccionActual = direccionIP;
+        socket.connect("tcp://"+direccionActual+":"+Direcciones.PUERTO_MONITOR_PROXY_BEAT);
         socket.setReceiveTimeOut(5000);
         return socket;
     }
 
     private Socket recreateSocket(ZContext context, Socket oldSocket) {
         oldSocket.close();
-        return createSocket(context);
+        return createSocket(context,this.direccionActual);
     }
 
     private void failure() {
         System.out.println("Máximo número de reintentos alcanzado. Fallo detectado.");
-        socketNotifiacion.send("failure"+ " tcp://"+Direcciones.DIRECCION_IP_PROXYB+":5240");
+        socketNotifiacion.send("failure"+ " tcp://"+Direcciones.DIRECCION_IP_PROXYB+":5200");
+        String reString= socketNotifiacion.recvStr();
+        System.out.println("Respuesta de notificación: " + reString);
+        this.direccionActual= Direcciones.DIRECCION_IP_PROXYB;
     }
 }
