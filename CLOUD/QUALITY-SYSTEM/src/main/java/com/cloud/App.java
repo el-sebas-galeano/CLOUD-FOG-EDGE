@@ -11,7 +11,7 @@ public class App
     {
         try(ZContext context = new ZContext()){
             Socket socketCalidad=context.createSocket(SocketType.REP);
-            socketCalidad.bind("tcp://localhost:5300");
+            socketCalidad.bind("tcp://*:5300");
             System.out.println("Esperando Alarmas!...");
             while (!Thread.currentThread().isInterrupted()) {
                 String alarma = socketCalidad.recvStr();

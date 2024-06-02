@@ -24,7 +24,7 @@ public class DataManager {
     public DataManager() {
         ZContext context = new ZContext();
         this.socketQuality = context.createSocket(SocketType.REQ);
-        this.socketQuality.connect("tcp://localhost:"+Direcciones.PUERTO_CLOUDCALIDAD_CLOUD);
+        this.socketQuality.connect("tcp://"+Direcciones.DIRECCION_IP_CLOUD_CALIDAD+":"+Direcciones.PUERTO_CLOUDCALIDAD_CLOUD);
         scheduler.scheduleAtFixedRate(this::procesarMedicionesHumedad, 0, 20, TimeUnit.SECONDS);
     }
 
