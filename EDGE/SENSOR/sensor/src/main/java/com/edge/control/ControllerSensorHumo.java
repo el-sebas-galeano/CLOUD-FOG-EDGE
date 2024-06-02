@@ -19,7 +19,7 @@ public class ControllerSensorHumo extends ControllerSensor {
         this.sensorInfo = new SensorHumo(idSensor, localDateTime);
         this.socketPushActivator = context.createSocket(SocketType.PUSH);
         this.socketPushFog = context.createSocket(SocketType.PUSH);
-        socketPushActivator.connect("tcp://localhost:"+Direcciones.PUERTO_ACTIVADOR_SENSOR);
+        socketPushActivator.connect("tcp://"+Direcciones.DIRECCION_IP_ACTUADOR+":"+Direcciones.PUERTO_ACTIVADOR_SENSOR);
         socketPushFog.connect("tcp://"+Direcciones.DIRECCION_IP_LOAD_BALANCER+":"+Direcciones.PUERTO_LOAD_BALANCER_PULL);
     }
 
