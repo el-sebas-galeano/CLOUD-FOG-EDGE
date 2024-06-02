@@ -32,8 +32,11 @@ public class ControllerProxy implements Runnable{
             while (true) {
                 System.out.println("Esperando......");
                 String data = loadBalancerSocket.recvStr();
+                long startTime= System.nanoTime();
                 socketCloud.send(data);
                 String reply = socketCloud.recvStr();
+                long endTime= System.nanoTime();
+                System.out.println("Tiempo de respuesta: "+(endTime-startTime)+" nanosegundos");
                 System.out.println(reply);
                 if(data.startsWith("M")){
                     localServerSocket.send(data.getBytes());
